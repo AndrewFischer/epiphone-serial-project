@@ -29,8 +29,6 @@ Other FF are anecdotally known, but are not in the dataset.
 
 ---
 
-## What This Project Is Not
-
 This project does **not**:
 
 - authenticate guitars
@@ -75,10 +73,6 @@ Absence of evidence is treated as a data limitation, not a conclusion.
 ## Data & Methodology
 
 - Textual data only
-- Serial numbers are stored **as-entered** plus a normalized form
-- No silent correction of serials
-- Inference is always labelled as such
-- Single examples do not define patterns
 
 Evidence > anecdotes.
 
