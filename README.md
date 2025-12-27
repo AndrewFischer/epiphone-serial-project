@@ -37,8 +37,6 @@ This project does **not**:
 - predict quality, QC outcome, or tone
 - replace expert appraisal or manufacturer records
 
-Serial numbers are treated as **signals**, not proofs.
-
 ---
 
 ## Ground Truth & Rules
