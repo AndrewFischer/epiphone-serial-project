@@ -93,7 +93,7 @@ You are free to share and adapt the material for any purpose, provided that:
 - appropriate credit is given, and
 - derivative works are distributed under the same license.
 
-See the `LICENSE` file for full details.
+See the [`LICENSE` file](https://creativecommons.org/licenses/by-sa/4.0/) for full details.
 
 ---
 
