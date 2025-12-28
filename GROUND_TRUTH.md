@@ -26,6 +26,8 @@ YYMMFFxxxxx
 * xxxxx = batch-local sequence number
 * FF is not a day of the month
 * Final digits are not global counters
+* YY is interpreted as 20YY within the project scope (≈2008–present). No other century interpretation is permitted.
+
 
 Given serial s:
 Parse Gate (must pass before any analysis):
