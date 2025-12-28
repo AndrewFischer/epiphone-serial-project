@@ -39,22 +39,7 @@ This project does **not**:
 
 ---
 
-## Ground Truth & Rules
 
-All analysis in this repository is governed by a formal **Ground Truth & Rules** document.
-
-This document defines:
-- valid serial formats
-- parsing and normalization rules
-- wildcard handling
-- duplicate handling
-- factory-specific semantics (where evidence exists)
-- forbidden inferences
-
-➡️ **See [`GROUND_TRUTH.md`](GROUND_TRUTH.md)**  
-Analysis that violates Ground Truth is considered invalid.
-
----
 
 ## Factory-Specific Semantics
 
