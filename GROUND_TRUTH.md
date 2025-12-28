@@ -79,12 +79,34 @@ FF 16 is included to allow future observations to pass the parse gate; no produc
 If an FF appears in analysis results but no serial contains that FF in positions 5–6, the result is invalid and must be rechecked.
 
 FF 15 — Serial Semantics (Factory-Specific Ground Truth)
-For FF 15 only, Epiphone serial numbers are applied after neck/body join and mid-finish, giving the final five digits real ordinal meaning within production batches.
-For FF 15, ordinal meaning is local to contiguous production batches and does not imply a continuous global counter, daily count, or total output figure.
+
+
+Serial number placement and application differ by construction type.
+
+Acoustics, hollow-body, and centre-block electrics:
+- Serial numbers are printed on a paper or synthetic label inside the body.
+- No serial is present on the neck or headstock.
+- The timing of serial assignment within the build process is unknown.
+- No inferences about neck join, finishing stage, or production order may be made from label-based serials.
+
+Solid-body electrics (e.g. Les Paul, SG):
+
+Serial number application methods vary by production era.
+
+Earlier production solid-body electrics:
+- Serial numbers may be printed on the headstock.
+- These are not physically stamped into the wood.
+- No assumptions about build-stage timing can be made from printed serials.
+
+Current and recent production solid-body electrics:
+- Serial numbers are stamped into the headstock wood and lie beneath the finish.
+- This constrains serial assignment to pre-final-finishing, but no finer sequencing is implied.
+
+The timing and scope of the transition between printed and stamped serials are not yet defined.
 
 Batch boundaries at FF 15 are defined by production scheduling (model, finish, neck spec), not by serial-number discontinuities alone.
 
-At FF 15, serial numbers are not applied to necks or other components prior to body/neck join; pre-serialization of components is explicitly ruled out.
+
 
 
 Acronyms
