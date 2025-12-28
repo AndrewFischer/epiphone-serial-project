@@ -79,4 +79,4 @@ See the [`LICENSE` file](https://creativecommons.org/licenses/by-sa/4.0/) for fu
 This repository is under active development.  
 Ground Truth is versioned and changes are recorded in `CHANGELOG.md`.
 
-Contributions are welcome, provided they adhere to Ground Truth.
+Contributions are welcome, provided they are in current format
