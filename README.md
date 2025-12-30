@@ -131,7 +131,8 @@ All four columns are required to exist, but **fields may be empty** except for `
 ```csv
 Model,Colour,Source,Serial
 Epiphone Les Paul Studio Custom Shop,,eBay,10011512788
-Epiphone Les Paul Standard Plus Top Heritage Cherry Sunburst,,Ishibashi,10051509041```
+Epiphone Les Paul Standard Plus Top Heritage Cherry Sunburst,,Ishibashi,10051509041
+```
 
 
 
