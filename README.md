@@ -1,82 +1,185 @@
 # Epiphone Serial Number Project
 
-This project is an observational analysis of  **modern Epiphone serial numbers (≈2008–present)** to better understand **production timing, factory codes, and batching**.
+**Research into modern Epiphone YYMMFFrrrrr serial numbers (≈2008–present).**
 
-It does **not** authenticate instruments or assess quality. The current dataset is well short of being able to estimate total production. 
+This project collects **publicly observable Epiphone serial numbers** to study:
+- production month/year patterns  
+- factory code usage  
+- batching and sequencing behaviour  
+
+It is an **observational dataset**, not a certification or valuation tool.
+
+If you own an Epiphone, have spotted one for sale, or enjoy serial-number archaeology — **your data is welcome**. We are only interested in YYMMFFrrrrr serials. Older letter-code serials like S3021234 are not part of this project. 
+
+---
+
+## What this project is (and isn’t)
+
+### ✅ This project *is*
+- a crowd-sourced dataset of real Epiphone serial numbers  
+- focused on **patterns**, not individual instruments  
+- based only on **visible serials** from guitars, listings, and forum posts  
+- open, conservative, and evidence-driven  
+
+### ❌ This project is *not*
+- an authentication service  
+- a way to verify originality or value  
+- a quality, QC, or “good vs bad factory” ranking  
+- an estimate of total production numbers (__yet__)
+- a replacement for Gibson/Epiphone internal records  
+
+If you’re asking *“Is my guitar real or fake?”* — this repo is **not** the right tool.
 
 ---
 
 ## Scope
 
-- Focus on:
-  - production month/year indicators
-  - observed factory code usage
-  - batch proximity and production patterns
-- Based on **publicly observable serial numbers** from listings, auctions, forum posts, and private instruments
+- Modern Epiphone serial numbers (≈2008–present)  
+- Production timing, factory codes, batching behaviour  
+- Data sourced from:
+  - private instruments  
+  - shop listings and dealer demo stock  
+  - eBay and Reverb listings with visible serials  
+  - forum and Reddit posts  
 
-- Epiphone Serial Format: YYMMFFxxxxx:
-	- YY Year
-	- MM Month
-	- FF Factory
-	- xxxxx is sequence or “rank” number.
-### Observed and well-known FF Codes
-- 13 China, details unknown
-- 15 Qingdao, China.  Epiphone / Gibson managed. All observed IGC guitars,acoustic and electric
-- 16 Qingdao, China. None in dataset
-- 23 Indonesia, Samick factory
-
-Other FF are anecdotally known, but are not in the dataset. 
+No private or identifying personal data is collected.
 
 ---
 
-This project does **not**:
+## Serial number format (modern Epiphone)
 
-- authenticate guitars
-- determine originality or provenance
-- estimate total production numbers
-- predict quality, QC outcome, or tone
-- replace expert appraisal or manufacturer records
+Modern Epiphone serials follow: **YYMMFFrrrrr**
 
----
-
-
-
-## Factory-Specific Semantics
-
-Where sufficient evidence exists, **factory-specific serial semantics are defined explicitly**.
-
-Notably:
-- **FF 15** (Epiphone-managed Qingdao) has well-supported batching and serial-order semantics.
-- Other factory codes may exist syntactically but have **no defined semantics unless supported by data**.
-
-Absence of evidence is treated as a data limitation, not a conclusion.
+Where:
+- **YY** = production year  
+- **MM** = production month  
+- **FF** = factory code  
+- **rrrrr** = batch-local sequence number (aka *rank*)  
 
 ---
 
-## Data & Methodology
+## Observed factory codes (current dataset)
 
-- Textual data only
+| FF | Location | Notes |
+|----|---------|-------|
+| 13 | China | Details currently unknown |
+| 15 | Qingdao, China | Epiphone / Gibson-managed factory; all observed **Inspired by Gibson Custom (IGC)** guitars (acoustic & electric) |
+| 16 | Qingdao, China | No confirmed entries yet |
+| 23 | Indonesia | Samick factory |
 
-Evidence > anecdotes.
+Other factory codes are mentioned online but are **not treated as real until supported by data**.
+
+Absence of evidence ≠ evidence of absence.
+
+---
+
+## Factory-specific semantics
+
+Where sufficient data exists, **factory-specific behaviour is documented explicitly**.
+
+At present:
+- **FF 15** shows strong evidence of batching and serial-order semantics  
+- Other factories may share the same *syntax* but **no semantics are assumed without evidence**
+
+This is deliberate and conservative.
+
+---
+
+## How to contribute
+
+You do **not** need GitHub expertise to help.
+
+### Required (text only)
+- **Serial number** (exactly as shown)
+- **Exact model name**
+
+
+## Dataset format (`.csv`)
+
+The canonical dataset is stored as a **UTF-8 encoded CSV file**.
+
+The column names, order, and casing **must match exactly**.
+
+### Required columns (current schema)
+
+| Column | Description |
+|------|-------------|
+| `Model` | Exact model name as advertised or labelled |
+| `Colour` | Finish or colour (may be empty) |
+| `Source` | Where observed (e.g. eBay, Reverb, Ishibashi, Sweetwater, private owner) |
+| `Serial` | Full serial number (eg. `22011512345`) |
+
+If you do not want to publish the full serial for a personal instrument, **wildcards (`X` or `?`) are allowed in the final one or two digits**, e.g. `2201151234X`.
+ 
+All four columns are required to exist, but **fields may be empty** except for `Serial`.
+
+---
+
+### CSV rules
+
+- One guitar per row  
+- Text only (no formulas)  
+- No embedded commas unless the field is quoted  
+- Do **not** pad serials with spaces or punctuation  
+- Use empty fields rather than placeholders like `N/A`  
+- Preserve column order and header spelling  
+
+---
+
+### Example (valid)
+
+```csv
+Model,Colour,Source,Serial
+Epiphone Les Paul Studio Custom Shop,,eBay,10011512788
+Epiphone Les Paul Standard Plus Top Heritage Cherry Sunburst,,Ishibashi,10051509041```
+
+
+
+
+### Where serials come from
+- your own guitar  
+- dealer or shop listings  
+- Reverb / eBay  
+- forum or Reddit posts  
+
+No photos are required in submissions.
+
+---
+
+## Data rules (important)
+
+- Text-only submissions  
+- No owner names  
+- No addresses or contact details  
+- No identifying personal data.  
+
+If it’s visible on a headstock or internal label, it’s acceptable.
+
+
+---
+
+## Project status
+
+- Actively developed  
+- Dataset still small relative to global production  
+- Conclusions are intentionally conservative  
+
+Bug reports, corrections, and negative findings are all valid contributions.
 
 ---
 
 ## License
 
-This project is licensed under the  
-**Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)** license.
+This project is licensed under  
+**Creative Commons Attribution–ShareAlike 4.0 (CC BY-SA 4.0)**.
 
-You are free to share and adapt the material for any purpose, provided that:
-- appropriate credit is given, and
-- derivative works are distributed under the same license.
+You may:
+- share  
+- adapt  
+- build upon the data  
 
-See the [`LICENSE` file](https://creativecommons.org/licenses/by-sa/4.0/) for full details.
+Provided that you:
+- give appropriate credit  
+- distribute derivative works under the same license  
 
----
-
-## Status
-
-This repository is under active development.  
-Ground Truth is versioned and changes are recorded in `CHANGELOG.md`.
-
-Contributions are welcome, provided they are in current format
+See `LICENSE` for full details.
