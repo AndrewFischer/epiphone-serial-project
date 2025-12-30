@@ -16,7 +16,7 @@ If you own an Epiphone, have spotted one for sale, or enjoy serial-number archae
 ## What this project is (and isn’t)
 
 ### ✅ This project *is*
-- a crowd-sourced dataset of real Epiphone serial numbers  
+- a dataset of real Epiphone serial numbers  
 - focused on **patterns**, not individual instruments  
 - based only on **visible serials** from guitars, listings, and forum posts  
 - open, conservative, and evidence-driven  
