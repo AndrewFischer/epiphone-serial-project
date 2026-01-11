@@ -67,15 +67,24 @@ Cannot
 
 FF Factory Codes
 Confirmed elsewhere with high confidence.
+* 13  — China
 * 15 — Qingdao, China
 * 16 — Qingdao, China
 * 21 — Unsung, Korea
 * 23 — Samick, Indonesia
-* 13  — China
+* 29 — unknown factory (Kramer; observed)
 
 FF 16 is included to allow future observations to pass the parse gate; no production or serial semantics are currently defined due to lack of observed serials.
 
 If an FF appears in analysis results but no serial contains that FF in positions 5–6, the result is invalid and must be rechecked.
+
+青岛吉森乐器有限公司 – Qingdao Jisen Musical Instrument Co., Ltd.
+is a wholly-owned subsidiary (全资子公司) of Gibson Brands, Inc.
+
+“吉森 (Jisen)” is a standard phonetic rendering of Gibson in mainland Chinese business usage.
+
+Based on ownership, location (Qingdao), production scope, and consistency with observed serial-number patterns, 青岛吉森乐器有限公司 is very likely the legal entity corresponding to factory code FF 15.
+青岛吉森乐器有限公司 is Located in Puji Town, Jiaozhou City — a county-level city administered by Qingdao
 
 FF 15 — Serial Semantics (Factory-Specific Ground Truth)
 
@@ -114,7 +123,7 @@ Epiphone and Gibson specific:
 
 IGC: Inspired by Gibson Custom
 IBG: Inspired by Gibson
-IBC ≠ IGC
+IBG ≠ IGC
 
 LP: Les Paul
 LPTD+: Les Paul Traditional Plus
