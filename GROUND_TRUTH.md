@@ -1,7 +1,6 @@
 #Epiphone Serial Number Project — Ground Truth & Rules
 Scope
 * Modern Epiphone serial numbers (≈2008–present)
-* (the YYMMFFxxxxx serial format is first observed on 2008 instruments)
 * Focus on production timing, factory codes, batching behaviour
 * Data collection and pattern analysis only
 Data Submission (text only)
@@ -16,15 +15,38 @@ Optional
 * Country/region
 * Price
 No photos required in-thread. Images (if any) are processed off-line.
-###Serial Format
-YYMMFFxxxxx
-* YY = year
-* MM = month
-* FF = factory code
-* xxxxx = batch-local sequence number
-* FF is not a day of the month
-* Final digits are not global counters
+Serial Format (ca. 2008–Present)
+
+Around 2008, Epiphone transitioned to purely numeric serial numbers with no letter codes.
+
+Official Gibson-described format:
+YYMMRRRR…
+Where:
+YY = year of manufacture (two digits)
+MM = month of manufacture (01–12)
+R = ranking number, Variable length, Observed at 4–6 digits
+
+Not necessarily indicative of total units produced
+Not a global counter
+
+
+
+
+This format is used across guitars, basses, mandolins, and related instruments.
 * YY is interpreted as 20YY within the project scope (≈2008–present). No other century interpretation is permitted.
+
+###Serial Length (Normalised)
+
+Valid normalised serial lengths:
+
+10 digits → YYMMFF + 4-digit ranking (cobserved on mandolins)
+
+11 digits → YYMMFF + 5-digit sequence (most common)
+
+12 digits → YYMMFF + 6-digit sequence (valid)
+
+Legacy letter-prefixed Epiphone serial formats are out of scope
+
 
 Given serial s:
 Parse Gate (must pass before any analysis):
@@ -32,8 +54,12 @@ Parse Gate (must pass before any analysis):
 2. norm = remove all spaces and hyphens; strip leading/trailing punctuation; uppercase
 3. Valid characters: digits 0–9 plus ? and X only
     * If any other character appears → invalid, stop
-4. len(norm) must be 11 → else invalid, stop
-5. YY=norm[0:2], MM=norm[2:4], FF=norm[4:6], seq=norm[6:11]
+4. len(norm) must be 10 or 11 or 12 → else invalid, stop
+5. Parse fixed fields:
+	* YY = norm[0:2]
+	* MM = norm[2:4]
+	* FF = norm[4:6]
+	* seq = norm[6:]
 6. YY, MM, FF must be digits only
     * If ?/X appears in YY/MM/FF → invalid 
 7. MM must be 01–12 (numeric)
@@ -67,13 +93,13 @@ Cannot
 
 FF Factory Codes
 Confirmed elsewhere with high confidence.
-* 13  — China
+* 13 — China
 * 15 — Qingdao, China
 * 16 — Qingdao, China
 * 21 — Unsung, Korea
 * 23 — Samick, Indonesia
-* 29 — unknown factory (Kramer; observed)
-
+* 24 - unknown factory (observed)
+* 29 — Indonesia (factory unknown; observed on Kramer)
 FF 16 is included to allow future observations to pass the parse gate; no production or serial semantics are currently defined due to lack of observed serials.
 
 If an FF appears in analysis results but no serial contains that FF in positions 5–6, the result is invalid and must be rechecked.
