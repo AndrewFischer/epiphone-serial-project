@@ -1,0 +1,19 @@
+Input: epiphone_full_dataset_bucket.csv
+Serial column: Serial
+Model column: Model
+Dedupe: ON
+
+Rows processed (post-dedupe if ON): 739
+Valid serials: 739
+Invalid serials: 0
+
+Invalid reasons (count):
+
+Examples by invalid reason (raw -> norm):
+
+n by FF (VALID serials only):
+  - 15: 602
+  - 23: 114
+  - 13: 11
+  - 29: 10
+  - 24: 2

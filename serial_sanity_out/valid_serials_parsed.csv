@@ -1,0 +1,740 @@
+source_line,raw_serial,norm_serial,YY,MM,FF,seq,model,ConstructionBucket
+2,10011512788,10011512788,10,01,15,12788,Epiphone Les Paul Studio Custom Shop,electric_solid
+3,10051509041,10051509041,10,05,15,09041,Epiphone Les Paul Standard Plus Top Heritage,electric_solid
+4,12032307818,12032307818,12,03,23,07818,Epiphone Nighthawk Custom Reissue,electric_solid
+5,13091500180,13091500180,13,09,15,00180,Epiphone Casino Inspired By John Lennon E230TD,electric_hb
+6,14111508184,14111508184,14,11,15,08184,Epiphone Tak Matsumoto DC Custom Ebony Fingerboard,electric_solid
+7,16011500194,16011500194,16,01,15,00194,Epiphone Casino,electric_hb
+8,16071503523,16071503523,16,07,15,03523,EPIPHONE Casino,electric_hb
+9,16101500909,16101500909,16,10,15,00909,Epiphone Casino,electric_hb
+10,17051500412,17051500412,17,05,15,00412,Epiphone Casino Coupe,electric_hb
+11,17102302224,17102302224,17,10,23,02224,Epiphone Limited Edition Joe Bonamassa 1958 Amos Korina Flying V,electric_solid
+12,20041522394,20041522394,20,04,15,22394,Epiphone Inspired by Gibson Les Paul Standard 60s,electric_solid
+13,21051520947,21051520947,21,05,15,20947,Epiphone UpTown Kat ES,electric_hb
+14,21051534779,21051534779,21,05,15,34779,EPIPHONE JOE BONAMASSA 59 LPS LAZARUS,electric_solid
+15,21092308389,21092308389,21,09,23,08389,Epiphone Masterbilt Excellente FT-120,acoustic
+16,21111525892,21111525892,21,11,15,25892,EPIPHONE Joan Jett Olympic Special,electric_solid
+17,21111535722,21111535722,21,11,15,35722,EPIPHONE Riviera,electric_hb
+18,21121523728,21121523728,21,12,15,23728,Epiphone Casino Coupe ,electric_hb
+19,22012350846,22012350846,22,01,23,50846,Epiphone Embassy Bass Guitar,electric_solid
+20,22012350929,22012350929,22,01,23,50929,Epiphone Embassy Bass Guitar,electric_solid
+21,22031531738,22031531738,22,03,15,31738,Epiphone Inspired by Gibson Les Paul Standard 50s,electric_solid
+22,22051533548,22051533548,22,05,15,33548,Epiphone Les Paul Custom,electric_solid
+23,22091511446,22091511446,22,09,15,11446,EPIPHONE Inspired by Gibson Dot ES-335,electric_hb
+24,22092305558,22092305558,22,09,23,05558,Epiphone IBG J-200 Acoustic-electric Guitar,acoustic
+25,22102303682,22102303682,22,10,23,03682,Epiphone IBG J-200 Acoustic-electric Guitar,acoustic
+26,23071532897,23071532897,23,07,15,32897,Epiphone Inspired by Gibson Firebird,electric_solid
+27,23091523662,23091523662,23,09,15,23662,Epiphone Inspired By Gibson Custom 1963 Firebird I,electric_solid
+28,23121521918,23121521918,23,12,15,21918,Epiphone IGC Les Paul,electric_solid
+29,23121524563,23121524563,23,12,15,24563,Inspired by Gibson Custom 1959 Les Paul Standard,electric_solid
+30,24011524236,24011524236,24,01,15,24236,Epiphone Inspired By Gibson Custom 1958 Korina Explorer,electric_solid
+31,24021511497,24021511497,24,02,15,11497,Epiphone Casino Left-Handed 2024,electric_hb
+32,24041511559,24041511559,24,04,15,11559,Epiphone CASINO,electric_hb
+33,24061510106,24061510106,24,06,15,10106,Epiphone Dave Grohl DG-335 Semi-hollowbody Electric Guitar,electric_hb
+34,24061510232,24061510232,24,06,15,10232,Epiphone Dave Grohl DG-335 Semi-hollowbody Electric Guitar,electric_hb
+35,24061510481,24061510481,24,06,15,10481,Epiphone Dave Grohl DG-335 Semi-hollowbody Electric Guitar,electric_hb
+36,24061510802,24061510802,24,06,15,10802,Epiphone Dave Grohl DG-335 Semi-hollowbody Electric Guitar,electric_hb
+37,24061510827,24061510827,24,06,15,10827,Epiphone Dave Grohl DG-335 Semi-hollowbody Electric Guitar,electric_hb
+38,24061520014,24061520014,24,06,15,20014,Epiphone 1959 Les Paul Standard Reissue Electric Guitar,electric_solid
+39,24061520023,24061520023,24,06,15,20023,Epiphone 1959 Les Paul Standard Reissue Electric Guitar,electric_solid
+40,24061521002,24061521002,24,06,15,21002,Epiphone 1959 Les Paul Standard Reissue Electric Guitar,electric_solid
+41,24061521014,24061521014,24,06,15,21014,Epiphone 1959 Les Paul Standard Reissue Electric Guitar,electric_solid
+42,24061525361,24061525361,24,06,15,25361,EPIPHONE Inspired by Gibson Les Paul Modern,electric_solid
+43,23061532303,23061532303,23,06,15,32303,EPIPHONE Les Paul Custom,electric_solid
+44,24071500502,24071500502,24,07,15,00502,Epiphone Miranda Lambert Bluebird Acoustic-electric Guitar,acoustic
+45,24071526692,24071526692,24,07,15,26692,Epiphone 1959 Les Paul Standard Reissue Electric Guitar,electric_solid
+46,24091510994,24091510994,24,09,15,10994,EPIPHONE CASINO Vintage Sunburst,electric_hb
+47,24091521656,24091521656,24,09,15,21656,EPIPHONE Les Paul Standard 50s,electric_solid
+48,24101500671,24101500671,24,10,15,00671,Epiphone Miranda Lambert Bluebird Acoustic-electric Guitar,acoustic
+49,24101510412,24101510412,24,10,15,10412,Epiphone Casino Hollowbody Electric Guitar,electric_hb
+50,24101527658,24101527658,24,10,15,27658,Epiphone Thunderbird '64 Bass Guitar,electric_solid
+51,24111512526,24111512526,24,11,15,12526,Epiphone 1959 ES-355 Semi-hollowbody Electric Guitar,electric_hb
+52,24121510105,24121510105,24,12,15,10105,Epiphone 1959 ES-355 Semi-hollowbody Electric Guitar,electric_hb
+53,24121510112,24121510112,24,12,15,10112,Epiphone 1959 ES-355 Semi-hollowbody Electric Guitar,electric_hb
+54,24121510117,24121510117,24,12,15,10117,Epiphone 1959 ES-355 Semi-hollowbody Electric Guitar,electric_hb
+55,24121510725,24121510725,24,12,15,10725,Epiphone 1959 ES-355 Semi-hollowbody Electric Guitar,electric_hb
+56,24121524017,24121524017,24,12,15,24017,Epiphone Jeff Beck Oxblood 1954 Les Paul,electric_solid
+57,24121524913,24121524913,24,12,15,24913,Epiphone 1964 SG Standard Reissue Electric Guitar,electric_solid
+58,24121527673,24121527673,24,12,15,27673,Epiphone 1964 SG Standard Reissue Electric Guitar,electric_solid
+59,25011511657,25011511657,25,01,15,11657,Epiphone Casino Hollowbody Electric Guitar,electric_hb
+60,25011511718,25011511718,25,01,15,11718,Epiphone 1959 ES-355 Semi-hollowbody Electric Guitar,electric_hb
+61,25011521003,25011521003,25,01,15,21003,IGC 1963 Firebird I Reissue,electric_solid
+62,25011522383,25011522383,25,01,15,22383,Epiphone 1964 SG Standard Reissue Electric Guitar,electric_solid
+63,25021500313,25021500313,25,02,15,00313,IGC 1942 Banner J-45 Reissue,acoustic
+64,25021500317,25021500317,25,02,15,00317,IGC 1942 Banner J-45 Reissue,acoustic
+65,25021500648,25021500648,25,02,15,00648,IGC 1942 Banner J-45 Reissue,acoustic
+66,25021511683,25021511683,25,02,15,11683,Epiphone 1959 ES-355 Semi-hollowbody Electric Guitar,electric_hb
+67,25021511804,25021511804,25,02,15,11804,Epiphone 1959 ES-355 Semi-hollowbody Electric Guitar,electric_hb
+68,25021527731,25021527731,25,02,15,27731,Epiphone Les Paul Custom Figured ,electric_solid
+69,25031500021,25031500021,25,03,15,00021,Epiphone Inspired by Gibson Custom 1960 Hummingbird Reissue,acoustic
+70,25031500042,25031500042,25,03,15,00042,Epiphone Inspired by Gibson Custom 1957 SJ-200 Reissue,acoustic
+71,25031500154,25031500154,25,03,15,00154,Epiphone Inspired by Gibson Custom 1957 SJ-200 Reissue,acoustic
+72,25031500176,25031500176,25,03,15,00176,Epiphone IGC Hummingbird Deluxe EC Autumn Burst,acoustic
+73,25031500225,25031500225,25,03,15,00225,Epiphone Inspired by Gibson Custom Pre-War SJ-200 Rosewood Reissue,acoustic
+74,25031500274,25031500274,25,03,15,00274,Epiphone Inspired by Gibson Custom 1963 Dove Reissue,acoustic
+75,25031500387,25031500387,25,03,15,00387,Epiphone Inspired by Gibson Custom Hummingbird Deluxe EC,acoustic
+76,25031500413,25031500413,25,03,15,00413,Epiphone Inspired by Gibson Custom Hummingbird Deluxe EC,acoustic
+77,25031500560,25031500560,25,03,15,00560,Epiphone Inspired by Gibson Custom Hummingbird Deluxe EC,acoustic
+78,25031500595,25031500595,25,03,15,00595,Epiphone Inspired by Gibson Custom 1957 SJ-200 Reissue,acoustic
+79,25031500991,25031500991,25,03,15,00991,Epiphone IGC 1957 SJ-200 Reissue,acoustic
+80,25031501174,25031501174,25,03,15,01174,Epiphone 1960 Hummingbird Reissue Acoustic-electric Guitar,acoustic
+81,25031501225,25031501225,25,03,15,01225,Epiphone Inspired by Gibson Custom Hummingbird Deluxe EC,acoustic
+82,25031510259,25031510259,25,03,15,10259,Epiphone Jack Casady Fretless Signature Bass Guitar,electric_hb
+83,25031510812,25031510812,25,03,15,10812,Epiphone Inspired by Gibson ES-335,electric_hb
+84,25031522906,25031522906,25,03,15,22906,IGC Custom 1964 SG Standard,electric_solid
+85,25041500295,25041500295,25,04,15,00295,Epiphone 1960 Hummingbird Reissue Acoustic-electric Guitar,acoustic
+86,25041510381,25041510381,25,04,15,10381,Epiphone Inspired by Gibson Custom 1959 ES-355,electric_hb
+87,25041511464,25041511464,25,04,15,11464,Epiphone Bonehead Riviera Electric Guitar,electric_hb
+88,25041511472,25041511472,25,04,15,11472,Epiphone Bonehead Riviera Electric Guitar,electric_hb
+89,25041511588,25041511588,25,04,15,11588,Epiphone Bonehead Riviera Electric Guitar,electric_hb
+90,25041511589,25041511589,25,04,15,11589,Epiphone Bonehead Riviera Electric Guitar,electric_hb
+91,25041523120,25041523120,25,04,15,23120,IGC 1959 Les Paul Standard,electric_solid
+92,25041523943,25041523943,25,04,15,23943,IGC 1959 Les Paul Standard,electric_solid
+93,25041525266,25041525266,25,04,15,25266,IGC 1959 Les Paul Standard,electric_solid
+94,25041525267,25041525267,25,04,15,25267,IGC 1959 Les Paul Standard,electric_solid
+95,25041525268,25041525268,25,04,15,25268,IGC 1959 Les Paul Standard,electric_solid
+96,25041525272,25041525272,25,04,15,25272,IGC 1959 Les Paul Standard,electric_solid
+97,25041525273,25041525273,25,04,15,25273,IGC 1959 Les Paul Standard,electric_solid
+98,25041525274,25041525274,25,04,15,25274,IGC 1959 Les Paul Standard,electric_solid
+99,25041525276,25041525276,25,04,15,25276,IGC 1959 Les Paul Standard,electric_solid
+100,25041525278,25041525278,25,04,15,25278,IGC 1959 Les Paul Standard,electric_solid
+101,25041525279,25041525279,25,04,15,25279,IGC 1959 Les Paul Standard,electric_solid
+102,25041525367,25041525367,25,04,15,25367,Epiphone Les Paul Custom Electric Guitar,electric_solid
+103,25041526056,25041526056,25,04,15,26056,IGC 1959 Les Paul Standard,electric_solid
+104,25041526057,25041526057,25,04,15,26057,IGC 1959 Les Paul Standard,electric_solid
+105,25041526062,25041526062,25,04,15,26062,IGC 1959 Les Paul Standard,electric_solid
+106,25041526562,25041526562,25,04,15,26562,Epiphone Les Paul Custom Electric Guitar,electric_solid
+107,25041526567,25041526567,25,04,15,26567,Epiphone Les Paul Custom Electric Guitar,electric_solid
+108,25041526594,25041526594,25,04,15,26594,Epiphone Les Paul Custom Electric Guitar,electric_solid
+109,25041526596,25041526596,25,04,15,26596,Epiphone Les Paul Custom Electric Guitar,electric_solid
+110,25051511433,25051511433,25,05,15,11433,Gem Archer Sheraton,electric_hb
+111,25051524331,25051524331,25,05,15,24331,IGC 1959 Les Paul Standard,electric_solid
+112,25051525791,25051525791,25,05,15,25791,IGC Custom 1964 SG Standard,electric_solid
+113,25051526070,25051526070,25,05,15,26070,Epiphone Thunderbird '64 Bass Guitar,electric_solid
+114,25052304163,25052304163,25,05,23,04163,Epiphone Dove Studio Acoustic-electric Guitar,acoustic
+115,25052306237,25052306237,25,05,23,06237,Epiphone Dove Studio Acoustic-electric Guitar,acoustic
+116,25052306992,25052306992,25,05,23,06992,Epiphone Dove Studio Acoustic-electric Guitar,acoustic
+117,25052307026,25052307026,25,05,23,07026,Epiphone Dove Studio Acoustic-electric Guitar,acoustic
+118,25052307454,25052307454,25,05,23,07454,Epiphone IBG J-200 Acoustic-electric Guitar,acoustic
+119,25061500317,25061500317,25,06,15,00317,Epiphone Inspired by Gibson Hummingbird Acoustic Guitar,acoustic
+120,25061500322,25061500322,25,06,15,00322,Epiphone Inspired by Gibson Hummingbird Acoustic Guitar,acoustic
+121,25061500388,25061500388,25,06,15,00388,Epiphone Inspired by Gibson Hummingbird Acoustic Guitar,acoustic
+122,25061500439,25061500439,25,06,15,00439,Epiphone Inspired by Gibson Hummingbird Acoustic Guitar,acoustic
+123,25061500446,25061500446,25,06,15,00446,Epiphone Inspired by Gibson Hummingbird Acoustic Guitar,acoustic
+124,25061510746,25061510746,25,06,15,10746,Epiphone Inspired By Gibson Custom 1959 ES-355,electric_hb
+125,25061510841,25061510841,25,06,15,10841,Epiphone Casino,electric_hb
+126,25061510981,25061510981,25,06,15,10981,Epiphone Casino,electric_hb
+127,25061511365,25061511365,25,06,15,11365,Epiphone Inspired By Gibson Custom 1959 ES-355,electric_hb
+128,25061511366,25061511366,25,06,15,11366,Epiphone Inspired By Gibson Custom 1959 ES-355,electric_hb
+129,25061511368,25061511368,25,06,15,11368,Epiphone Inspired By Gibson Custom 1959 ES-355,electric_hb
+130,25061511826,25061511826,25,06,15,11826,Epiphone ES-335 Figured Semi-hollowbody,electric_hb
+131,25061512970,25061512970,25,06,15,12970,Epiphone Noel Gallagher Riviera,electric_hb
+132,25061512989,25061512989,25,06,15,12989,Epiphone ES-335 Figured Semi-hollowbody,electric_hb
+133,25061520795,25061520795,25,06,15,20795,Epiphone EB-3 Bass Guitar,electric_solid
+134,25061520806,25061520806,25,06,15,20806,Epiphone EB-3 Bass Guitar,electric_solid
+135,25061521230,25061521230,25,06,15,21230,Epiphone EB-3 Bass Guitar,electric_solid
+136,25061523265,25061523265,25,06,15,23265,IGC Custom 1964 SG Standard,electric_solid
+137,25061523689,25061523689,25,06,15,23689,Epiphone EB-3 Bass Guitar,electric_solid
+138,25061524303,25061524303,25,06,15,24303,IGC 1959 Les Paul Standard,electric_solid
+139,25061524795,25061524795,25,06,15,24795,IGC 1959 Les Paul Standard,electric_solid
+140,25061527570,25061527570,25,06,15,27570,Epiphone Thunderbird E1 Bass Guitar $449.00,electric_solid
+141,25061527737,25061527737,25,06,15,27737,Epiphone Inspired by Gibson Custom Les Paul Custom,electric_solid
+142,25061528150,25061528150,25,06,15,28150,IGC Custom 1964 SG Standard,electric_solid
+143,25062302342,25062302342,25,06,23,02342,Epiphone Blues King Studio Acoustic-electric Guitar,acoustic
+144,25062302425,25062302425,25,06,23,02425,Epiphone L-00 Studio Acoustic-Electric Guitar,acoustic
+145,25071500745,25071500745,25,07,15,00745,IGC 1957 SJ-200 Reissue,acoustic
+146,25071510533,25071510533,25,07,15,10533,Epiphone Casino Hollowbody Electric Guitar,electric_hb
+147,25071510571,25071510571,25,07,15,10571,Epiphone Noel Gallagher Riviera,electric_hb
+148,25071510669,25071510669,25,07,15,10669,Epiphone Casino Hollowbody Electric Guitar,electric_hb
+149,25071510715,25071510715,25,07,15,10715,Epiphone Noel Gallagher Riviera,electric_hb
+150,25071510718,25071510718,25,07,15,10718,Epiphone Noel Gallagher Riviera,electric_hb
+151,25071510806,25071510806,25,07,15,10806,Epiphone Noel Gallagher Riviera,electric_hb
+152,25071510821,25071510821,25,07,15,10821,Epiphone Noel Gallagher Riviera,electric_hb
+153,25071510849,25071510849,25,07,15,10849,Epiphone ES-335 Semi-hollowbody Electric Guitar,electric_hb
+154,25071510994,25071510994,25,07,15,10994,Epiphone ES-335 Semi-hollowbody Electric Guitar,electric_hb
+155,25071510999,25071510999,25,07,15,10999,Epiphone ES-335 Semi-hollowbody Electric Guitar,electric_hb
+156,25071511013,25071511013,25,07,15,11013,Epiphone ES-335 Figured Semi-hollowbody,electric_hb
+157,25071511310,25071511310,25,07,15,11310,Epiphone Casino Hollowbody Electric Guitar,electric_hb
+158,25071511420,25071511420,25,07,15,11420,Epiphone Noel Gallagher Riviera,electric_hb
+159,25071511516,25071511516,25,07,15,11516,Epiphone ES-335 Semi-hollowbody Electric Guitar,electric_hb
+160,25071511728,25071511728,25,07,15,11728,Epiphone Noel Gallagher Riviera,electric_hb
+161,25071511986,25071511986,25,07,15,11986,Epiphone Viola Bass,electric_hb
+162,25071512025,25071512025,25,07,15,12025,Epiphone ES-335 Semi-hollowbody Electric Guitar,electric_hb
+163,25071520492,25071520492,25,07,15,20492,Epiphone Les Paul Custom Electric Guitar,electric_solid
+164,25071521380,25071521380,25,07,15,21380,Epiphone Les Paul Custom Electric Guitar,electric_solid
+165,25071521384,25071521384,25,07,15,21384,Epiphone Les Paul Custom Electric Guitar,electric_solid
+166,25071521391,25071521391,25,07,15,21391,Epiphone Les Paul Custom Electric Guitar,electric_solid
+167,25071521807,25071521807,25,07,15,21807,Epiphone Les Paul Custom Electric Guitar,electric_solid
+168,25071529957,25071529957,25,07,15,29957,Epiphone Thunderbird E1 Bass Guitar,electric_solid
+169,25071530466,25071530466,25,07,15,30466,Epiphone Thunderbird E1 Bass Guitar,electric_solid
+170,25072300263,25072300263,25,07,23,00263,Epiphone J-45 Studio Acoustic-electric Guitar,acoustic
+171,25072300322,25072300322,25,07,23,00322,Epiphone J-45 Studio Acoustic-electric Guitar,acoustic
+172,25072300495,25072300495,25,07,23,00495,Epiphone J-45 Studio Acoustic-electric Guitar,acoustic
+173,25072300897,25072300897,25,07,23,00897,piphone J-45 Studio EC Acoustic-electric Guitar,acoustic
+174,25072301061,25072301061,25,07,23,01061,piphone J-45 Studio EC Acoustic-electric Guitar,acoustic
+175,25072301110,25072301110,25,07,23,01110,piphone J-45 Studio EC Acoustic-electric Guitar,acoustic
+176,25072301236,25072301236,25,07,23,01236,Epiphone J-45 Studio EC Acoustic-electric Guitar,acoustic
+177,25072301401,25072301401,25,07,23,01401,Epiphone J-45 Studio EC Acoustic-electric Guitar,acoustic
+178,25072301564,25072301564,25,07,23,01564,Epiphone Blues King Studio Acoustic-electric Guitar,acoustic
+179,25072301664,25072301664,25,07,23,01664,Epiphone Blues King Studio Acoustic-electric Guitar,acoustic
+180,25072301705,25072301705,25,07,23,01705,Epiphone Blues King Studio Acoustic-electric Guitar,acoustic
+181,25072301776,25072301776,25,07,23,01776,Epiphone Blues King Studio Acoustic-electric Guitar,acoustic
+182,25072301813,25072301813,25,07,23,01813,Epiphone Blues King Studio Acoustic-electric Guitar,acoustic
+183,25072301881,25072301881,25,07,23,01881,Epiphone Blues King Studio Acoustic-electric Guitar,acoustic
+184,25072302008,25072302008,25,07,23,02008,Epiphone Blues King Studio Acoustic-electric Guitar,acoustic
+185,25072302063,25072302063,25,07,23,02063,Epiphone Blues King Studio Acoustic-electric Guitar,acoustic
+186,25072302110,25072302110,25,07,23,02110,Epiphone Blues King Studio Acoustic-electric Guitar,acoustic
+187,25072303575,25072303575,25,07,23,03575,Epiphone Hummingbird Studio EC Acoustic-electric Guitar,acoustic
+188,25072303584,25072303584,25,07,23,03584,Epiphone Hummingbird Studio EC Acoustic-electric Guitar,acoustic
+189,25072303616,25072303616,25,07,23,03616,Epiphone Hummingbird Studio EC Acoustic-electric Guitar,acoustic
+190,25072303718,25072303718,25,07,23,03718,Epiphone Hummingbird Studio EC Acoustic-electric Guitar,acoustic
+191,25072304497,25072304497,25,07,23,04497,Epiphone J-200 Studio EC,acoustic
+192,25081510073,25081510073,25,08,15,10073,Epiphone Jack Casady Signature Bass,electric_hb
+193,25081510324,25081510324,25,08,15,10324,Epiphone Casino Hollowbody Electric Guitar,electric_hb
+194,25082304339,25082304339,25,08,23,04339,Epiphone J-200 Studio EC,acoustic
+195,25091512290,25091512290,25,09,15,12290,Epiphone Viola Bass,electric_hb
+196,25091512294,25091512294,25,09,15,12294,Epiphone Viola Bass,electric_hb
+197,25091512546,25091512546,25,09,15,12546,Epiphone Viola Bass,electric_hb
+198,25091512554,25091512554,25,09,15,12554,Epiphone Viola Bass,electric_hb
+199,25091524193,25091524193,25,09,15,24193,Epiphone Jerry Cantrell Wino Les Paul Custom Electric Guitar,electric_solid
+200,25091524628,25091524628,25,09,15,24628,Epiphone Jerry Cantrell Wino Les Paul Custom Electric Guitar,electric_solid
+201,25091526231,25091526231,25,09,15,26231,Epiphone Jerry Cantrell Wino Les Paul Custom Electric Guitar,electric_solid
+202,25091526429,25091526429,25,09,15,26429,Epiphone 1960 Les Paul Special Double Cut Reissue Electric Guitar,electric_solid
+203,25091526942,25091526942,25,09,15,26942,Epiphone 1960 Les Paul Special Double Cut Reissue Electric Guitar,electric_solid
+204,25091526956,25091526956,25,09,15,26956,Epiphone 1960 Les Paul Special Double Cut Reissue Electric Guitar,electric_solid
+205,25091527481,25091527481,25,09,15,27481,Epiphone SG Custom Electric Guitar,electric_solid
+206,25091528109,25091528109,25,09,15,28109,Epiphone 1963 Firebird V Left-handed Electric Guitar,electric_solid
+207,25091528113,25091528113,25,09,15,28113,Epiphone 1963 Firebird V Left-handed Electric Guitar,electric_solid
+208,25091528144,25091528144,25,09,15,28144,Epiphone EB-3 Bass Guitar,electric_solid
+209,25091528721,25091528721,25,09,15,28721,Epiphone 1960 Les Paul Special Double Cut Reissue Electric Guitar,electric_solid
+210,25091528758,25091528758,25,09,15,28758,Epiphone 1960 Les Paul Special Double Cut Reissue Electric Guitar,electric_solid
+211,25092300376,25092300376,25,09,23,00376,Inspired by Gibson J-45 EC,acoustic
+212,25102301497,25102301497,25,10,23,01497,Epiphone Masterbilt TEXAN,acoustic
+213,25091500863,25091500863,25,09,15,00863,Inspired by Gibson Custom 1957 SJ-200 Reissue,acoustic
+214,25101500232,25101500232,25,10,15,00232,Inspired by Gibson Custom 1957 SJ-200 Reissue,acoustic
+215,25101500082,25101500082,25,10,15,00082,Inspired by Gibson Custom 1963 Dove Reissue,acoustic
+216,24121524110,24121524110,24,12,15,24110,Epiphone Inspired by Gibson Custom 1960 Les Paul Standard Reissue,electric_solid
+217,24121523047,24121523047,24,12,15,23047,Epiphone Inspired by Gibson Custom 1960 Les Paul Standard Reissue,electric_solid
+218,25071524397,25071524397,25,07,15,24397,Epiphone Les Paul Custom,electric_solid
+219,25091512393,25091512393,25,09,15,12393,Epiphone Bonehead Riviera Electric Guitar,electric_hb
+220,25091500400,25091500400,25,09,15,00400,Epiphone Inspired by Gibson 1957 SJ-200,acoustic
+221,25101510652,25101510652,25,10,15,10652,Epiphone Broadway,electric_hb
+222,25041510446,25041510446,25,04,15,10446,Epiphone Casino,electric_hb
+223,25091512021,25091512021,25,09,15,12021,Epiphone IBG ES-335,electric_hb
+224,24121522443,24121522443,24,12,15,22443,Epiphone Inspired by Gibson Custom 1959 Les Paul Standard Reissue,electric_solid
+225,25021511995,25021511995,25,02,15,11995,Epiphone IBG ES-335,electric_hb
+226,23021511248,23021511248,23,02,15,11248,Epiphone Broadway,electric_hb
+227,25021530183,25021530183,25,02,15,30183,Epiphone Inspired by Gibson Custom Les Paul Custom,electric_solid
+228,25091510996,25091510996,25,09,15,10996,Epiphone IBG ES-335,electric_hb
+229,25061525479,25061525479,25,06,15,25479,Epiphone Kirk Hammett Greeny 1959 Les Paul Standard,electric_solid
+230,24121523550,24121523550,24,12,15,23550,Epiphone Les Paul Standard 50s,electric_solid
+231,24111529809,24111529809,24,11,15,29809,Epiphone IGC Les Paul Custom,electric_solid
+232,24121526355,24121526355,24,12,15,26355,Epiphone IGC Les Paul Custom,electric_solid
+233,25091511895,25091511895,25,09,15,11895,Epiphone IGC ES-335,electric_hb
+234,24121525774,24121525774,24,12,15,25774,Epiphone Inspired by Gibson Custom 1960 Les Paul Standard Reissue,electric_solid
+235,25071510350,25071510350,25,07,15,10350,Epiphone ES-339,electric_hb
+236,25051524730,25051524730,25,05,15,24730,Epiphone Les Paul Modern Figured,electric_solid
+237,25091510868,25091510868,25,09,15,10868,Epiphone IGC 1962 ES-335 Reissue,electric_hb
+238,25082350772,25082350772,25,08,23,50772,Epiphone SG Tribute Plus,electric_solid
+239,25021529032,25021529032,25,02,15,29032,Epiphone Inspired by Gibson Custom 1957 Les Paul Goldtop Reissue,electric_solid
+240,25071510375,25071510375,25,07,15,10375,Epiphone Casino,electric_hb
+241,25091510992,25091510992,25,09,15,10992,Epiphone IGC ES-335,electric_hb
+242,24011303890,24011303890,24,01,13,03890,Epiphone Mastertone Classic Banjo,unknown
+243,23061520216,23061520216,23,06,15,20216,Epiphone Les Paul Special,electric_solid
+244,23081522916,23081522916,23,08,15,22916,Epiphone Waxx Nighthawk Studio,electric_solid
+245,23031510075,23031510075,23,03,15,10075,Epiphone Broadway,electric_hb
+246,25051520440,25051520440,25,05,15,20440,Epiphone Les Paul Standard 50s,electric_solid
+247,25071524534,25071524534,25,07,15,24534,Epiphone Les Paul Standard 50s,electric_solid
+248,23091529142,23091529142,23,09,15,29142,Epiphone IGC ’63 Firebird I,electric_solid
+249,24011525486,24011525486,24,01,15,25486,Epiphone IGC Limited Edition ’58 Korina Explorer Reissue,electric_solid
+250,08111505334,08111505334,08,11,15,05334,Epiphone BB King Lucile,electric_hb
+251,21071527996,21071527996,21,07,15,27996,Epiphone BB King Lucile,electric_hb
+252,23111511019,23111511019,23,11,15,11019,Epiphone BB King Lucile,electric_hb
+253,21051533627,21051533627,21,05,15,33627,Epiphone BB King Lucile ,electric_hb
+254,16101503233,16101503233,16,10,15,03233,Epiphone BB King Lucile ,electric_hb
+255,19051529710,19051529710,19,05,15,29710,Epiphone BB King Lucile ,electric_hb
+256,22041510106,22041510106,22,04,15,10106,Epiphone BB King Lucile ,electric_hb
+257,19011510766,19011510766,19,01,15,10766,Epiphone BB King Lucile ,electric_hb
+258,22071534703,22071534703,22,07,15,34703,Epiphone Nancy Wilson Fanatic Nighthawk ,electric_solid
+259,21071530612,21071530612,21,07,15,30612,Epiphone Joe Bonamassa Signature Lazarus '59 Les Paul Standard,electric_solid
+260,19101533027,19101533027,19,10,15,33027,Epiphone Uptown Kat,electric_hb
+261,22121520130,22121520130,22,12,15,20130,Epiphone Ltd. Ed. Thommy Thayer Electric Blue Signature Les Paul,electric_solid
+262,23031510973,23031510973,23,03,15,10973,Epiphone Broadway,electric_hb
+263,16092301540,16092301540,16,09,23,01540,Epiphone Masterbilt Century Collection Olympic,acoustic
+264,24031308142,24031308142,24,03,13,08142,Epiphone Mastertone Classic Banjo,unknown
+265,22032302547,22032302547,22,03,23,02547,Epiphone Dove Studio,acoustic
+266,22022300859,22022300859,22,02,23,00859,Epiphone J-200EC Studio,acoustic
+267,12102309063,12102309063,12,10,23,09063,Epiphone FT-79  Inspired by Texan,acoustic
+268,20122306693,20122306693,20,12,23,06693,Epiphone IBG J-45EC,acoustic
+269,19092305204,19092305204,19,09,23,05204,Epiphone Hummingbird Pro FC,acoustic
+270,140923099XX,140923099XX,14,09,23,099XX,EJ-200 SC,acoustic
+271,161123006XX,161123006XX,16,11,23,006XX,Masterbilt Century DeLuxe (Roundhole),acoustic
+272,170523031XX,170523031XX,17,05,23,031XX,Masterbilt Century DeLuxe (Classic),acoustic
+273,170623011XX,170623011XX,17,06,23,011XX,Masterbilt Century Zenith,acoustic
+274,17 10 23 027XX,171023027XX,17,10,23,027XX,Limited Edition EL00,acoustic
+275,180323017XX,180323017XX,18,03,23,017XX,Joe Pass Emperor II Pro,electric_hb
+276,190523055XX,190523055XX,19,05,23,055XX,EJ-200 Coupe,acoustic
+277,191223088XX,191223088XX,19,12,23,088XX,Masterbilt FJ79 Texan,acoustic
+278,200523 043XX,200523043XX,20,05,23,043XX,Masterbilt DR500,acoustic
+279,211023134XX,211023134XX,21,10,23,134XX,Masterbilt FT120 Excellente,acoustic
+280,21 04 23 020XX,210423020XX,21,04,23,020XX,Performer PR5e,acoustic
+281,22 01 23 054XX,220123054XX,22,01,23,054XX,Epiphone IBG J200,acoustic
+282,221223503XX,221223503XX,22,12,23,503XX,Epiphone 150th Anniversary Zephyr Regent,electric_hb
+283,15041306932,15041306932,15,04,13,06932,Epiphone DR-100,acoustic
+284,21082308548,21082308548,21,08,23,08548,Epiphone J-45 Studio,acoustic
+285,13042309358,13042309358,13,04,23,09358,Epiphone ES-335 Dot,electric_hb
+286,20092308631,20092308631,20,09,23,08631,Epiphone Masterbilt TEXAN,acoustic
+287,24091528858,24091528858,24,09,15,28858,Epiphone IGC 1959 Les Paul Standard,electric_solid
+288,23111520109,23111520109,23,11,15,20109,Epiphone IGC 1959 Les Paul Standard,electric_solid
+289,23111530556,23111530556,23,11,15,30556,Epiphone IGC 1959 Les Paul Standard,electric_solid
+290,23021526918,23021526918,23,02,15,26918,Epiphone IGC 1959 Les Paul Standard Electric Guitar,electric_solid
+291,24121523059,24121523059,24,12,15,23059,Epiphone IGC 1959 Les Paul Standard Reissue,electric_solid
+292,24121525771,24121525771,24,12,15,25771,Epiphone IGC 1960 Les Paul Standard Reissue,electric_solid
+293,24121529063,24121529063,24,12,15,29063,Epiphone IGC 1960 Les Paul Standard Reissue,electric_solid
+294,24121524417,24121524417,24,12,15,24417,Epiphone IGC 1964 SG Standard Reissue with Maestro Vibrola,electric_solid
+295,23011522199,23011522199,23,01,15,22199,"Epiphone Adam Jones Les Paul Custom Art Collection: Julie Heffernan's ""Self-Portrait as Not Dead Yet""",electric_solid
+296,22111525820,22111525820,22,11,15,25820,"Epiphone Adam Jones Les Paul Custom Artwork Julie Heffernan's “Study For Self Portrait W/ Rose Skirt and a Mouse""",electric_solid
+297,23031524807,23031524807,23,03,15,24807,"Epiphone Adam Jones Les Paul Custom Artwork Korin Fraught's “Sensation""",electric_solid
+298,23031510979,23031510979,23,03,15,10979,Epiphone Broadway,electric_hb
+299,22061526307,22061526307,22,06,15,26307,Epiphone Coronet,electric_solid
+300,22041528390,22041528390,22,04,15,28390,Epiphone Coronet,electric_solid
+301,24071510229,24071510229,24,07,15,10229,Epiphone IGC Dave Grohl DG-335 Electric Guitar,electric_hb
+302,24071510227,24071510227,24,07,15,10227,Epiphone IGC Dave Grohl DG-335 Electric Guitar,electric_hb
+303,22091524084,22091524084,22,09,15,24084,Epiphone Dave Mustaine Flying V Custom,electric_solid
+304,23011520213,23011520213,23,01,15,20213,Epiphone Dave Mustaine Prophecy Flying V Figured,electric_solid
+305,24061528380,24061528380,24,06,15,28380,"Epiphone IGC Jimi Hendrix ""Love Drops"" Flying V",electric_solid
+306,24101520521,24101520521,24,10,15,20521,"Epiphone IGC Jimi Hendrix ""Love Drops"" Flying V",electric_solid
+307,24091531551,24091531551,24,09,15,31551,"Epiphone IGC Jimi Hendrix ""Love Drops"" Flying V",electric_solid
+308,24101521636,24101521636,24,10,15,21636,"Epiphone IGC Jimi Hendrix ""Love Drops"" Flying V",electric_solid
+309,24111531153,24111531153,24,11,15,31153,"Epiphone IGC Jimi Hendrix ""Love Drops"" Flying V Left Handed",electric_solid
+310,25061524193,25061524193,25,06,15,24193,Epiphone Joe Bonamassa 1955 Les Paul Standard,electric_solid
+311,25061524190,25061524190,25,06,15,24190,Epiphone Joe Bonamassa 1955 Les Paul Standard,electric_solid
+312,25091524536,25091524536,25,09,15,24536,Epiphone Joe Bonamassa 59' Les Paul Electric Guitar,electric_solid
+313,25091523564,25091523564,25,09,15,23564,Epiphone Joe Bonamassa 59' Les Paul,electric_solid
+314,11071508178,11071508178,11,07,15,08178,Epiphone Joe Bonamassa Les Paul,electric_solid
+315,24021521553,24021521553,24,02,15,21553,Epiphone IGC Kirk Hammet Greeny 1959 Les Paul Standard,electric_solid
+316,24021521017,24021521017,24,02,15,21017,Epiphone IGC Kirk Hammet Greeny 1959 Les Paul Standard,electric_solid
+317,24101520748,24101520748,24,10,15,20748,Epiphone IGC  Les Paul Custom,electric_solid
+318,24101526133,24101526133,24,10,15,26133,Epiphone IBG Les Paul Custom,electric_solid
+319,25091527117,25091527117,25,09,15,27117,Epiphone IBG Les Paul Custom Figured,electric_solid
+320,24051523843,24051523843,24,05,15,23843,Epiphone IBG Les Paul Prophecy,electric_solid
+321,24041521489,24041521489,24,04,15,21489,Epiphone IBG Les Paul Prophecy Left Handed,electric_solid
+322,18071304038,18071304038,18,07,13,04038,Epiphone Les Paul SL,electric_solid
+323,22081529126,22081529126,22,08,15,29126,Epiphone Les Paul Special,electric_solid
+324,23051529875,23051529875,23,05,15,29875,Epiphone IBG Les Paul Standard '50s,electric_solid
+325,24011522039,24011522039,24,01,15,22039,Epiphone IBG Les Paul Standard '60s,electric_solid
+326,24071531284,24071531284,24,07,15,31284,Epiphone IBG Les Paul Standard '60s,electric_solid
+327,24111523026,24111523026,24,11,15,23026,Epiphone IBG Les Paul Standard '60s,electric_solid
+328,24101520041,24101520041,24,10,15,20041,Epiphone IBG Les Paul Standard '50s,electric_solid
+329,24111527524,24111527524,24,11,15,27524,Epiphone IBG Les Paul Standard ‘50s Figured,electric_solid
+330,24091531205,24091531205,24,09,15,31205,Epiphone IBG Les Paul Standard 60's Figured,electric_solid
+331,24081305165,24081305165,24,08,13,05165,Epiphone Les Paul Tribute,electric_solid
+332,25072350588,25072350588,25,07,23,50588,Epiphone Les Paul Tribute Plus,electric_solid
+333,22011311603,22011311603,22,01,13,11603,Epiphone Power Players Les Paul,electric_solid
+334,24051522868,24051522868,24,05,15,22868,Epiphone SG Prophecy,electric_solid
+335,22041525138,22041525138,22,04,15,25138,Epiphone IBG Slash Victoria Les Paul Standard,electric_solid
+336,22041526360,22041526360,22,04,15,26360,Epiphone IBG Slash Les Paul Standard,electric_solid
+337,25021500382,25021500382,25,02,15,00382,Epiphone IGC1942 Banner J-45 Reissue,acoustic
+338,22012302856,22012302856,22,01,23,02856,Epiphone El Nino,acoustic
+339,24022301135,24022301135,24,02,23,01135,Epiphone IBG Hummingbird,acoustic
+340,15051508268,15051508268,15,05,15,08268,Epiphone IBG Les Paul Standard,electric_solid
+341,25081531180,25081531180,25,08,15,31180,Epiphone 1959 Les Paul Standard Reissue,electric_solid
+342,25081531726,25081531726,25,08,15,31726,Epiphone 1959 Les Paul Standard Reissue,electric_solid
+343,25081531739,25081531739,25,08,15,31739,Epiphone 1959 Les Paul Standard Reissue,electric_solid
+344,25081531748,25081531748,25,08,15,31748,Epiphone 1959 Les Paul Standard Reissue,electric_solid
+345,25081531749,25081531749,25,08,15,31749,Epiphone 1959 Les Paul Standard Reissue,electric_solid
+346,25081528059,25081528059,25,08,15,28059,Epiphone Inspired by Gibson Custom Les Paul Custom Quilt Electric Guitar,electric_solid
+347,25081528064,25081528064,25,08,15,28064,Epiphone Inspired by Gibson Custom Les Paul Custom Quilt Electric Guitar,electric_solid
+348,25081529207,25081529207,25,08,15,29207,Epiphone Inspired by Gibson Custom Les Paul Custom Quilt Electric Guitar,electric_solid
+349, 25041511740,25041511740,25,04,15,11740,Epiphone Bonehead Riviera Electric Guitar,electric_hb
+350, 25091511366,25091511366,25,09,15,11366,Epiphone IGC 1962 Gibson ES-335 Reissue,electric_hb
+351, 25091511908,25091511908,25,09,15,11908,Epiphone IGC 1962 Gibson ES-335 Reissue,electric_hb
+352, 25091512399,25091512399,25,09,15,12399,Epiphone IGC 1962 Gibson ES-335 Reissue,electric_hb
+353, 25091524960,25091524960,25,09,15,24960,Epiphone IGC 1960 Les Paul Special Double Cut,electric_solid
+354, 25091528732,25091528732,25,09,15,28732,Epiphone IGC 1960 Les Paul Special Double Cut,electric_solid
+355, 25091528747,25091528747,25,09,15,28747,Epiphone IGC 1960 Les Paul Special Double Cut,electric_solid
+356, 25091527383,25091527383,25,09,15,27383,Epiphone IGC 1960 Les Paul Special Double Cut,electric_solid
+357, 24111525768,24111525768,24,11,15,25768,Epiphone IGC 1960 Les Paul Standard Reissue,electric_solid
+358, 24121527416,24121527416,24,12,15,27416,Epiphone IGC 1960 Les Paul Standard Reissue,electric_solid
+359, 24121531219,24121531219,24,12,15,31219,Epiphone IGC 1960 Les Paul Standard Reissue,electric_solid
+360, 25011520566,25011520566,25,01,15,20566,Epiphone IGC 1960 Les Paul Standard Reissue,electric_solid
+361, 25011521111,25011521111,25,01,15,21111,Epiphone IGC 1960 Les Paul Standard Reissue,electric_solid
+362, 25081522283,25081522283,25,08,15,22283,Epiphone IGC 1957 Les Paul Goldtop,electric_solid
+363, 25091526988,25091526988,25,09,15,26988,Epiphone IGC 1957 Les Paul Goldtop,electric_solid
+364, 25091526995,25091526995,25,09,15,26995,Epiphone IGC 1957 Les Paul Goldtop,electric_solid
+365, 25091526998,25091526998,25,09,15,26998,Epiphone IGC 1957 Les Paul Goldtop,electric_solid
+366, 25091528783,25091528783,25,09,15,28783,Epiphone IGC 1957 Les Paul Goldtop,electric_solid
+367, 24121524396,24121524396,24,12,15,24396,Epiphone IBG Grabber Bass,electric_solid
+368, 25011528242,25011528242,25,01,15,28242,Epiphone IBG Grabber Bass,electric_solid
+369, 25021523990,25021523990,25,02,15,23990,Epiphone IBG Grabber Bass,electric_solid
+370, 25021523992,25021523992,25,02,15,23992,Epiphone IBG Grabber Bass,electric_solid
+371, 25021524624,25021524624,25,02,15,24624,Epiphone IBG Grabber Bass,electric_solid
+372, 25091528210,25091528210,25,09,15,28210,Epiphone Embassy Bass Guitar,electric_solid
+373, 25091528214,25091528214,25,09,15,28214,Epiphone Embassy Bass Guitar,electric_solid
+374, 24031520633,24031520633,24,03,15,20633,Epiphone Les Paul Custom Widow,electric_solid
+375, 22011532155,22011532155,22,01,15,32155,Epiphone IBG Les Paul Custom,electric_solid
+376, 25071512368,25071512368,25,07,15,12368,Epiphone IBG ES-355 ,electric_hb
+377, 25021511686,25021511686,25,02,15,11686,Epiphone IGC 1959 ES-355,electric_hb
+378, 25021511706,25021511706,25,02,15,11706,Epiphone IGC 1959 ES-355,electric_hb
+379, 25021511712,25021511712,25,02,15,11712,Epiphone IGC 1959 ES-355,electric_hb
+380, 25021511784,25021511784,25,02,15,11784,Epiphone IGC 1959 ES-355,electric_hb
+381, 25021511885,25021511885,25,02,15,11885,Epiphone IGC 1959 ES-355,electric_hb
+382, 24061510178,24061510178,24,06,15,10178,Epiphone IGC Dave Grohl DG-335,electric_hb
+383, 24061510380,24061510380,24,06,15,10380,Epiphone IGC Dave Grohl DG-335,electric_hb
+384, 24061510486,24061510486,24,06,15,10486,Epiphone IGC Dave Grohl DG-335,electric_hb
+385, 24061510589,24061510589,24,06,15,10589,Epiphone IGC Dave Grohl DG-335,electric_hb
+386, 24061510594,24061510594,24,06,15,10594,Epiphone IGC Dave Grohl DG-335,electric_hb
+387, 24111512653,24111512653,24,11,15,12653,Epiphone IGC 1959 ES-355,electric_hb
+388, 24121510115,24121510115,24,12,15,10115,Epiphone IGC 1959 ES-355,electric_hb
+389, 24121510117,24121510117,24,12,15,10117,Epiphone IGC 1959 ES-355,electric_hb
+390, 24121510119,24121510119,24,12,15,10119,Epiphone IGC 1959 ES-355,electric_hb
+391, 24111512648,24111512648,24,11,15,12648,Epiphone IGC 1959 ES-355,electric_hb
+392, 25091512088,25091512088,25,09,15,12088,Epiphone IGC 1962 ES-335 Reissue,electric_hb
+393, 20081521407,20081521407,20,08,15,21407,Epiphone Wilshire,electric_solid
+394,20121523105,20121523105,20,12,15,23105,Epiphone Emily Wolfe Sheraton Stealth,electric_hb
+395, 21111529000,21111529000,21,11,15,29000,Epiphone Joan Jett Olympic Special,electric_solid
+396, 22071307398,22071307398,22,07,13,07398,Epiphone Newport Bass,electric_solid
+397, 12082309311,12082309311,12,08,23,09311,Epiphone 50th Anniversary 1962 Crestwood Custom,electric_solid
+398, 23031511134,23031511134,23,03,15,11134,Epiphone Riviera,electric_hb
+399, 25061528403,25061528403,25,06,15,28403,Epiphone Thunderbird E1 Bass Guitar,electric_solid
+400,25091528621,25091528621,25,09,15,28621,Epiphone EB-3 Bass Guitar,electric_solid
+401,25091528624,25091528624,25,09,15,28624,Epiphone EB-3 Bass Guitar,electric_solid
+402,25091528627,25091528627,25,09,15,28627,Epiphone EB-3 Bass Guitar,electric_solid
+403, 25091523806,25091523806,25,09,15,23806,Epiphone EB-3 Bass Guitar,electric_solid
+404, 25091528634,25091528634,25,09,15,28634,Epiphone EB-3 Bass Guitar,electric_solid
+405, 25051526069,25051526069,25,05,15,26069,Epiphone Thunderbird '64 Bass Guitar,electric_solid
+406, 23081523991,23081523991,23,08,15,23991,Epiphone Rex Brown Thunderbird,electric_solid
+407, 23071523024,23071523024,23,07,15,23024,Epiphone Rex Brown Thunderbird,electric_solid
+408,25021522576,25021522576,25,02,15,22576,Epiphone EB-3 Bass Guitar,electric_solid
+409, 22082306931,22082306931,22,08,23,06931,Epiphone El Capitan J-200 Studio Bass,acoustic
+410, 22072310278,22072310278,22,07,23,10278,Epiphone El Capitan J-200 Studio Bass,acoustic
+411, 25011510006,25011510006,25,01,15,10006,Epiphone Jack Casady Bass,electric_hb
+412, 25021511399,25021511399,25,02,15,11399,Epiphone Jack Casady Bass,electric_hb
+413, 25021511241,25021511241,25,02,15,11241,Epiphone Jack Casady Bass,electric_hb
+414, 24031512252,24031512252,24,03,15,12252,Epiphone Jack Casady Bass,electric_hb
+415, 24031512251,24031512251,24,03,15,12251,Epiphone Jack Casady Bass,electric_hb
+416, 25041510512,25041510512,25,04,15,10512,Epiphone Jack Casady Bass,electric_hb
+417, 24111521905,24111521905,24,11,15,21905,Epiphone Grabber Bass,electric_solid
+418, 25071525588,25071525588,25,07,15,25588,Epiphone Grabber Bass,electric_solid
+419, 25061524056,25061524056,25,06,15,24056,Epiphone Grabber Bass,electric_solid
+420, 25051521929,25051521929,25,05,15,21929,Epiphone Mike Dirnt Grabber G-3 Bass,electric_solid
+421, 25051522249,25051522249,25,05,15,22249,Epiphone Mike Dirnt Grabber G-3 Bass,electric_solid
+422,25082350796,25082350796,25,08,23,50796,Epiphone SG Tribute Plus,electric_solid
+423,25082350728,25082350728,25,08,23,50728,Epiphone SG Tribute Plus,electric_solid
+424,25082350743,25082350743,25,08,23,50743,Epiphone SG Tribute Plus,electric_solid
+425,25082350744,25082350744,25,08,23,50744,Epiphone SG Tribute Plus,electric_solid
+426,25082350968,25082350968,25,08,23,50968,Epiphone SG Tribute Plus,electric_solid
+427,25082350964,25082350964,25,08,23,50964,Epiphone SG Tribute Plus,electric_solid
+428,25072352373,25072352373,25,07,23,52373,Epiphone SG Tribute Plus,electric_solid
+429,25082351131,25082351131,25,08,23,51131,Epiphone SG Tribute Plus,electric_solid
+430,25082351124,25082351124,25,08,23,51124,Epiphone SG Tribute Plus,electric_solid
+431,25082351118,25082351118,25,08,23,51118,Epiphone SG Tribute Plus,electric_solid
+432,25082351105,25082351105,25,08,23,51105,Epiphone SG Tribute Plus,electric_solid
+433,25031523988,25031523988,25,03,15,23988,Epiphone Inspired by Gibson SG Standard,electric_solid
+434,25031525806,25031525806,25,03,15,25806,Epiphone Inspired by Gibson SG Standard,electric_solid
+435,25041521679,25041521679,25,04,15,21679,Epiphone Inspired by Gibson SG Standard,electric_solid
+436,25031525811,25031525811,25,03,15,25811,Epiphone Inspired by Gibson SG Standard,electric_solid
+437,25041521681,25041521681,25,04,15,21681,Epiphone Inspired by Gibson SG Standard,electric_solid
+438,25031525817,25031525817,25,03,15,25817,Epiphone Inspired by Gibson SG Standard,electric_solid
+439,25051524128,25051524128,25,05,15,24128,Epiphone Inspired by Gibson SG Standard,electric_solid
+440,25051524144,25051524144,25,05,15,24144,Epiphone Inspired by Gibson SG Standard,electric_solid
+441,25031525816,25031525816,25,03,15,25816,Epiphone Inspired by Gibson SG Standard,electric_solid
+442,25051524140,25051524140,25,05,15,24140,Epiphone Inspired by Gibson SG Standard,electric_solid
+443,24121528091,24121528091,24,12,15,28091,Epiphone Inspired by Gibson Les Paul Standard 50s,electric_solid
+444,24121528090,24121528090,24,12,15,28090,Epiphone Inspired by Gibson Les Paul Standard 50s,electric_solid
+445,25011526406,25011526406,25,01,15,26406,Epiphone Inspired by Gibson Les Paul Standard 50s,electric_solid
+446,24111528262,24111528262,24,11,15,28262,Epiphone Inspired by Gibson SG Standard,electric_solid
+447,25011526188,25011526188,25,01,15,26188,Epiphone Inspired by Gibson SG Standard,electric_solid
+448,25041529265,25041529265,25,04,15,29265,Epiphone Inspired by Gibson SG Standard,electric_solid
+449,25041529275,25041529275,25,04,15,29275,Epiphone Inspired by Gibson SG Standard,electric_solid
+450,25011526924,25011526924,25,01,15,26924,Epiphone Inspired by Gibson Les Paul Standard 50s Figured,electric_solid
+451,25011524935,25011524935,25,01,15,24935,Epiphone Inspired by Gibson Les Paul Standard 50s Figured,electric_solid
+452,25011524446,25011524446,25,01,15,24446,Epiphone Inspired by Gibson Les Paul Standard 50s Figured,electric_solid
+453,25021531044,25021531044,25,02,15,31044,Epiphone Inspired by Gibson Les Paul Standard 50s Figured,electric_solid
+454,24121527050,24121527050,24,12,15,27050,Epiphone Inspired by Gibson SG Standard 60s,electric_solid
+455,24111528000,24111528000,24,11,15,28000,Epiphone Inspired by Gibson SG Standard 60s,electric_solid
+456,25072302136,25072302136,25,07,23,02136,Epiphone Blues King Studio,acoustic
+457,25072301933,25072301933,25,07,23,01933,Epiphone Blues King Studio,acoustic
+458,25072301962,25072301962,25,07,23,01962,Epiphone Blues King Studio,acoustic
+459,24122303807,24122303807,24,12,23,03807,Epiphone J-45 EC Studio,acoustic
+460, 25042302643,25042302643,25,04,23,02643,Epiphone J-45 Studio,acoustic
+461,24121523917,24121523917,24,12,15,23917,Epiphone Inspired by Gibson SG Standard,electric_solid
+462,24111527256,24111527256,24,11,15,27256,Epiphone Inspired by Gibson SG Standard,electric_solid
+463,24121526730,24121526730,24,12,15,26730,Epiphone Inspired by Gibson SG Standard,electric_solid
+464,24121527235,24121527235,24,12,15,27235,Epiphone Inspired by Gibson SG Standard,electric_solid
+465,24111524812,24111524812,24,11,15,24812,Epiphone Inspired by Gibson Les Paul Standard 60s Figured,electric_solid
+466,25051525192,25051525192,25,05,15,25192,Epiphone Inspired by Gibson Les Paul Standard 60s Figured,electric_solid
+467,25041524331,25041524331,25,04,15,24331,Epiphone Inspired by Gibson Les Paul Standard 60s Figured,electric_solid
+468,25051525199,25051525199,25,05,15,25199,Epiphone Inspired by Gibson Les Paul Standard 60s Figured,electric_solid
+469,24111526471,24111526471,24,11,15,26471,Epiphone Inspired by Gibson Les Paul Standard 50s,electric_solid
+470,24111524126,24111524126,24,11,15,24126,Epiphone Inspired by Gibson Les Paul Standard 50s,electric_solid
+471,24111520655,24111520655,24,11,15,20655,Epiphone Inspired by Gibson Les Paul Standard 50s,electric_solid
+472,24121524244,24121524244,24,12,15,24244,Epiphone Inspired by Gibson Les Paul Standard 50s,electric_solid
+473,24121524246,24121524246,24,12,15,24246,Epiphone Inspired by Gibson Les Paul Standard 50s,electric_solid
+474,25031521763,25031521763,25,03,15,21763,Epiphone Inspired by Gibson Les Paul Standard 60s,electric_solid
+475, 22081514958,22081514958,22,08,15,14958,Epiphone B.B. King Lucille,electric_hb
+476, 25081500506,25081500506,25,08,15,00506,Epiphone Inspired by Gibson Custom 1957 SJ-200 Reissue,acoustic
+477, 25071500840,25071500840,25,07,15,00840,Epiphone Inspired by Gibson Custom 1957 SJ-200 Reissue,acoustic
+478, 25071500827,25071500827,25,07,15,00827,Epiphone Inspired by Gibson Custom 1960 Hummingbird Reissue,acoustic
+479, 25071500801,25071500801,25,07,15,00801,Epiphone Inspired by Gibson Custom 1960 Hummingbird Reissue,acoustic
+480, 25071500473,25071500473,25,07,15,00473,Epiphone Inspired by Gibson Custom 1960 Hummingbird Reissue,acoustic
+481, 25071500799,25071500799,25,07,15,00799,Epiphone Inspired by Gibson Custom 1960 Hummingbird Reissue,acoustic
+482, 25071500809,25071500809,25,07,15,00809,Epiphone Inspired by Gibson Custom 1960 Hummingbird Reissue,acoustic
+483, 25071500835,25071500835,25,07,15,00835,Epiphone Inspired by Gibson Custom 1960 Hummingbird Reissue,acoustic
+484,25021501612,25021501612,25,02,15,01612,Epiphone Inspired by Gibson Custom Pre-War SJ-200 Rosewood Reissue,acoustic
+485,25031500763,25031500763,25,03,15,00763,Epiphone Inspired by Gibson Custom 1963 Dove Reissue,acoustic
+486, 25071529465,25071529465,25,07,15,29465,Epiphone EB-3 SG Bass,electric_solid
+487,25071512281,25071512281,25,07,15,12281,Epiphone IGC 1962 ES-335 Reissue,electric_hb
+488,25071512119,25071512119,25,07,15,12119,Epiphone IGC 1962 ES-335 Reissue,electric_hb
+489,25071512204,25071512204,25,07,15,12204,Epiphone IGC 1962 ES-335 Reissue,electric_hb
+490,25071512217,25071512217,25,07,15,12217,Epiphone IGC 1962 ES-335 Reissue,electric_hb
+491,25071512274,25071512274,25,07,15,12274,Epiphone IGC 1962 ES-335 Reissue,electric_hb
+492,25071512202,25071512202,25,07,15,12202,Epiphone IGC 1962 ES-335 Reissue,electric_hb
+493,25071512212,25071512212,25,07,15,12212,Epiphone IGC 1962 ES-335 Reissue,electric_hb
+494, 19061309585,19061309585,19,06,13,09585,Epiphone SG Special VE,electric_solid
+495,22012351237,22012351237,22,01,23,51237,Epiphone Thunderbird Vintage PRO,electric_solid
+496, 11082303631,11082303631,11,08,23,03631,EPIPHONE Swingster Roya Limited Edition,electric_hb
+497, 11101506576,11101506576,11,10,15,06576,EPIPHONE G-400,electric_solid
+498,12091503317,12091503317,12,09,15,03317,EPIPHONE Limited Edition Dot Studio,electric_hb
+499, 13031500409,13031500409,13,03,15,00409,Epiphone Inspired by John Lennon Casino E230TD,electric_hb
+500,13081508079,13081508079,13,08,15,08079,EPIPHONE Les Paul Custom Pro,electric_solid
+501, 13091502289,13091502289,13,09,15,02289,EPIPHONE DOT ES339,electric_hb
+502,13111507153,13111507153,13,11,15,07153,Epiphone Tak Matsumoto DC Standard Plus Top,electric_solid
+503, 14041506759,14041506759,14,04,15,06759,EPIPHONE Limited Edition Les Paul Traditional Pro,electric_solid
+504,14081509403,14081509403,14,08,15,09403,EPIPHONE Slash Rosso Corsa Les Paul Standard,electric_solid
+505,14081512367,14081512367,14,08,15,12367,EPIPHONE Les Paul Classic-T (robot tuners),electric_solid
+506, 25051524058,25051524058,25,05,15,24058,Epiphone Dave Grohl DG-335,electric_hb
+507, 11041511748,11041511748,11,04,15,11748,Epiphone Les Paul Standard Royale,electric_solid
+508, 12111509417,12111509417,12,11,15,09417,Epiphone Les Paul Standard Plus Top Pro,electric_solid
+509, 10091507567,10091507567,10,09,15,07567,Epiphone Les Paul Classic Plaintop,electric_solid
+510,24121528315,24121528315,24,12,15,28315,Epiphone Tak Matsumoto 1955 Les Paul Standard,electric_solid
+511,24061523287,24061523287,24,06,15,23287,Epiphone Tak Matsumoto 1955 Les Paul Standard,electric_solid
+512, 25052306986,25052306986,25,05,23,06986,Epiphone Dove Studio,acoustic
+513, 25052306509,25052306509,25,05,23,06509,Epiphone Dove Studio,acoustic
+514,25052306370,25052306370,25,05,23,06370,Epiphone Hummingbird Studio,acoustic
+515,25062303064,25062303064,25,06,23,03064,Epiphone Hummingbird Studio,acoustic
+516,25072301618,25072301618,25,07,23,01618,Epiphone Blues King Studio,acoustic
+517,25072301663,25072301663,25,07,23,01663,Epiphone Blues King Studio,acoustic
+518,25072301517,25072301517,25,07,23,01517,Epiphone Blues King Studio,acoustic
+519,25021520170,25021520170,25,02,15,20170,Epiphone Les Paul Junior,electric_solid
+520,25021526043,25021526043,25,02,15,26043,Epiphone Les Paul Junior,electric_solid
+521,25031520596,25031520596,25,03,15,20596,Epiphone Les Paul Junior,electric_solid
+522,25031520598,25031520598,25,03,15,20598,Epiphone Les Paul Junior,electric_solid
+523,25021526053,25021526053,25,02,15,26053,Epiphone Les Paul Junior,electric_solid
+524,25031520602,25031520602,25,03,15,20602,Epiphone Les Paul Junior,electric_solid
+525,25031520589,25031520589,25,03,15,20589,Epiphone Les Paul Junior,electric_solid
+526,25041520966,25041520966,25,04,15,20966,Epiphone Les Paul Junior,electric_solid
+527,25031520590,25031520590,25,03,15,20590,Epiphone Les Paul Junior,electric_solid
+528,25041523278,25041523278,25,04,15,23278,Epiphone Les Paul Junior,electric_solid
+529,25031520595,25031520595,25,03,15,20595,Epiphone Les Paul Junior,electric_solid
+530,25041523295,25041523295,25,04,15,23295,Epiphone Les Paul Junior,electric_solid
+531,25051522144,25051522144,25,05,15,22144,Epiphone Les Paul Junior,electric_solid
+532,25031520597,25031520597,25,03,15,20597,Epiphone Les Paul Junior,electric_solid
+533,25051522151,25051522151,25,05,15,22151,Epiphone Les Paul Junior,electric_solid
+534,25041523289,25041523289,25,04,15,23289,Epiphone Les Paul Junior,electric_solid
+535,25021525523,25021525523,25,02,15,25523,Epiphone Les Paul Junior,electric_solid
+536,25051522146,25051522146,25,05,15,22146,Epiphone Les Paul Junior,electric_solid
+537,25021526044,25021526044,25,02,15,26044,Epiphone Les Paul Junior,electric_solid
+538,25051522149,25051522149,25,05,15,22149,Epiphone Les Paul Junior,electric_solid
+539,25031520601,25031520601,25,03,15,20601,Epiphone Les Paul Junior,electric_solid
+540,25051522145,25051522145,25,05,15,22145,Epiphone Les Paul Junior,electric_solid
+541,25021526055,25021526055,25,02,15,26055,Epiphone Les Paul Junior,electric_solid
+542,25021526029,25021526029,25,02,15,26029,Epiphone Les Paul Junior,electric_solid
+543, 25041521924,25041521924,25,04,15,21924,Epiphone Les Paul Special,electric_solid
+544,25041525656,25041525656,25,04,15,25656,Epiphone Les Paul Special,electric_solid
+545,25041522387,25041522387,25,04,15,22387,Epiphone Les Paul Special,electric_solid
+546,25041525659,25041525659,25,04,15,25659,Epiphone Les Paul Special,electric_solid
+547,25041522401,25041522401,25,04,15,22401,Epiphone Les Paul Special,electric_solid
+548,25041525663,25041525663,25,04,15,25663,Epiphone Les Paul Special,electric_solid
+549,25041523607,25041523607,25,04,15,23607,Epiphone Les Paul Special,electric_solid
+550,25041522398,25041522398,25,04,15,22398,Epiphone Les Paul Special,electric_solid
+551,25041522406,25041522406,25,04,15,22406,Epiphone Les Paul Special,electric_solid
+552,25041523589,25041523589,25,04,15,23589,Epiphone Les Paul Special,electric_solid
+553,25041526152,25041526152,25,04,15,26152,Epiphone Les Paul Special,electric_solid
+554,25041523592,25041523592,25,04,15,23592,Epiphone Les Paul Special,electric_solid
+555,25041526157,25041526157,25,04,15,26157,Epiphone Les Paul Special,electric_solid
+556,25041523611,25041523611,25,04,15,23611,Epiphone Les Paul Special,electric_solid
+557,25041526539,25041526539,25,04,15,26539,Epiphone Les Paul Special,electric_solid
+558,25041525660,25041525660,25,04,15,25660,Epiphone Les Paul Special,electric_solid
+559,25041526968,25041526968,25,04,15,26968,Epiphone Les Paul Special,electric_solid
+560,25041521416,25041521416,25,04,15,21416,Epiphone Les Paul Special,electric_solid
+561,25041521429,25041521429,25,04,15,21429,Epiphone Les Paul Special,electric_solid
+562,25041525672,25041525672,25,04,15,25672,Epiphone Les Paul Special,electric_solid
+563,25041521922,25041521922,25,04,15,21922,Epiphone Les Paul Special,electric_solid
+564,25041523601,25041523601,25,04,15,23601,Epiphone Les Paul Special,electric_solid
+565,25041527877,25041527877,25,04,15,27877,Epiphone Les Paul Special,electric_solid
+566,25041522394,25041522394,25,04,15,22394,Epiphone Les Paul Special,electric_solid
+567,25041525666,25041525666,25,04,15,25666,Epiphone Les Paul Special,electric_solid
+568,25091521601,25091521601,25,09,15,21601,Epiphone Les Paul Custom Widow,electric_solid
+569, 21081527161,21081527161,21,08,15,27161,EPIPHONE RIVIERA,electric_hb
+570, 19111533048,19111533048,19,11,15,33048,EPIPHONE Shinichi Ubukata ES-355 Custom, electric_hb
+571, 23011511620,23011511620,23,01,15,11620,EPIPHONE Shinichi Ubukata ES-355 Custom, electric_hb
+572,15051511108,15051511108,15,05,15,11108,EPIPHONE Limited Edition Bjorn Gelotte Les Paul Custom,electric_solid
+573,24021500857,24021500857,24,02,15,00857,Epiphone IGC J-180 LS,acoustic
+574, 23111500854,23111500854,23,11,15,00854,Epiphone IGC J-180 LS,acoustic
+575, 21042900244,21042900244,21,04,29,00244,Kramer D-1 Bass,electric_solid
+576,24021528373,24021528373,24,02,15,28373,Epiphone YUNGBLUD SG Junior,electric_solid
+577,22091511161,22091511161,22,09,15,11161,Epiphone Casino,electric_hb
+578,22121500148,22121500148,22,12,15,00148,Epiphone Hummingbird,acoustic
+579,21012356148,21012356148,21,01,23,56148,Epiphone Emperor Swingster,None
+580,20081528539,20081528539,20,08,15,28539,Epiphone ES-339,electric_hb
+581,23081520833,23081520833,23,08,15,20833,Epiphone Rex Brown Thunderbird Bass,electric_solid
+582, 21111530137,21111530137,21,11,15,30137,Epiphone Jerry Cantrell Les Paul Custom Prophecy, electric_solid
+583,24071500811,24071500811,24,07,15,00811,Epiphone Acoustic J-180 LS (Incl. Hard Case),acoustic
+584,23011520013,23011520013,23,01,15,20013,Epiphone 1959 Les Paul Standard (Incl. Hard Case), electric_solid
+585,25082300174,25082300174,25,08,23,00174,Epiphone Hummingbird Studio,acoustic
+586,25082350556,25082350556,25,08,23,50556,Epiphone Les Paul Tribute Plus, electric_solid
+587,25082350137,25082350137,25,08,23,50137,Epiphone Les Paul Tribute Plus, electric_solid
+588,25072351672,25072351672,25,07,23,51672,Epiphone Les Paul Tribute Plus, electric_solid
+589,25082350311,25082350311,25,08,23,50311,Epiphone Les Paul Tribute Plus, electric_solid
+590,24091510085,24091510085,24,09,15,10085,Epiphone ES-335, electric_hb
+591,24091530798,24091530798,24,09,15,30798,Epiphone Les Paul Special, electric_solid
+592,24081521002,24081521002,24,08,15,21002,Epiphone SG Standard, electric_solid
+593,25011511187,25011511187,25,01,15,11187,Epiphone ES-339, electric_hb
+594,24041510716,24041510716,24,04,15,10716,Epiphone ES-335 Figured, electric_hb
+595,25051521590,25051521590,25,05,15,21590,Epiphone SG Standard, electric_solid
+596,24091530426,24091530426,24,09,15,30426,Epiphone SG Standard, electric_solid
+597, 24041301944,24041301944,24,04,13,01944,Epiphone F-5 Studio Mandolin, mandolin
+598,24091520044,24091520044,24,09,15,20044,Epiphone Les Paul Standard, electric_solid
+599,24081520031,24081520031,24,08,15,20031,Epiphone Les Paul Standard, electric_solid
+600,24081520080,24081520080,24,08,15,20080,Epiphone Les Paul Standard, electric_solid
+601,24081520020,24081520020,24,08,15,20020,Epiphone Les Paul Standard, electric_solid
+602,24081531664,24081531664,24,08,15,31664,Epiphone SG Custom, electric_solid
+603,24091521434,24091521434,24,09,15,21434,Epiphone SG Custom, electric_solid
+604, 25051510016,25051510016,25,05,15,10016,Epiphone Casino, electric_hb
+605,24101523439,24101523439,24,10,15,23439,Epiphone Les Paul Standard, electric_solid
+606,24111523023,24111523023,24,11,15,23023,Epiphone Les Paul Standard, electric_solid
+607,25051520489,25051520489,25,05,15,20489,Epiphone IBG Les Paul Standard 50's Figured, electric_solid
+608,25061500070,25061500070,25,06,15,00070,Epiphone IBG J-45, acoustic
+609, 23031511639,23031511639,23,03,15,11639,Epiphone Sheraton, electric_hb
+610, 24041512786,24041512786,24,04,15,12786,Epiphone Emily Wolf Sheraton, electric_hb
+611, 24101302356,24101302356,24,10,13,02356,Epiphone Mastertone Bowtie Open Back Banjo, unknown
+612,25081522033,25081522033,25,08,15,22033,Epiphone IBG Les Paul Custom, electric_solid
+613, 24092301961,24092301961,24,09,23,01961,Epiphone IBG J-45 EC, acoustic
+614,23111523878,23111523878,23,11,15,23878,Epiphone Thunderbird '64, electric_solid
+615,2505240017,2505240017,25,05,24,0017,Epiphone F-5G Mandolin, unknown
+616,2505240002,2505240002,25,05,24,0002,Epiphone F-5G Mandolin, unknown
+617,24121523965,24121523965,24,12,15,23965,Kramer Pacer Deluxe, electric_solid
+618,25021525205,25021525205,25,02,15,25205,Kramer Pacer Deluxe, electric_solid
+619,25021531695,25021531695,25,02,15,31695,Kramer Pacer Deluxe, electric_solid
+620,25021523723,25021523723,25,02,15,23723,Kramer Pacer Deluxe, electric_solid
+621,25021523692,25021523692,25,02,15,23692,Kramer Pacer Deluxe, electric_solid
+622,25021525753,25021525753,25,02,15,25753,Kramer Pacer Deluxe, electric_solid
+623,25021523159,25021523159,25,02,15,23159,Kramer Pacer Deluxe GT, electric_solid
+624,25021526333,25021526333,25,02,15,26333,Kramer Pacer Deluxe GT, electric_solid
+625,25021526335,25021526335,25,02,15,26335,Kramer Pacer Deluxe GT, electric_solid
+626, 24121526148,24121526148,24,12,15,26148,Kramer Volante HHFR, electric_solid
+627, 24121526707,24121526707,24,12,15,26707,Kramer Volante HHFR , electric_solid
+628,24121520728,24121520728,24,12,15,20728,Kramer Volante HSGT, electric_solid
+629,24121521267,24121521267,24,12,15,21267,Kramer Volante HSGT, electric_solid
+630,24121521268,24121521268,24,12,15,21268,Kramer Volante HSGT, electric_solid
+631,24121521736,24121521736,24,12,15,21736,Kramer Volante HSGT, electric_solid
+632,23112901968,23112901968,23,11,29,01968,Kramer Pacer Carrera, electric_solid
+633, 23122901548,23122901548,23,12,29,01548,Kramer Nite-V, electric_solid
+634, 24112900046,24112900046,24,11,29,00046,Kramer Nick Bowcott Signature Baretta, electric_solid
+635, 22052901382,22052901382,22,05,29,01382,Kramer SM-1 Figured, electric_solid
+636, 22052901426,22052901426,22,05,29,01426,Kramer SM-1 Figured, electric_solid
+637, 21122907385,21122907385,21,12,29,07385,Kramer Baretta, electric_solid
+638, 22032906756,22032906756,22,03,29,06756,Kramer Baretta, electric_solid
+639, 21112903438,21112903438,21,11,29,03438,Kramer Nightswan, electric_solid
+640, 21112903458,21112903458,21,11,29,03458,Kramer Nightswan, electric_solid
+641, 25061510609,25061510609,25,06,15,10609,Epiphone Inspired By Gibson Custom 1959 ES-355, electric_hb
+642, 25061513064,25061513064,25,06,15,13064,Epiphone Inspired By Gibson Custom 1959 ES-355, electric_hb
+643,24111525252,24111525252,24,11,15,25252,Epiphone IGC 1960 Les Paul Standard Reissue,electric_solid
+644,25041526023,25041526023,25,04,15,26023,Epiphone IGC 1960 Les Paul Standard Reissue,electric_solid
+645,25051521379,25051521379,25,05,15,21379,Epiphone IGC 1960 Les Paul Standard Reissue,electric_solid
+646,25051521366,25051521366,25,05,15,21366,Epiphone IGC 1960 Les Paul Standard Reissue,electric_solid
+647,25051521733,25051521733,25,05,15,21733,Epiphone IGC 1960 Les Paul Standard Reissue,electric_solid
+648,25061522132,25061522132,25,06,15,22132,Epiphone IGC 1960 Les Paul Standard Reissue,electric_solid
+649,21021525679,21021525679,21,02,15,25679,Epiphone Slash Les Paul Standard,electric_solid
+650,24071527070,24071527070,24,07,15,27070,Epiphone Kirk Hammett Greeny 1959 Les Paul Standard,electric_solid
+651,23081520340,23081520340,23,08,15,20340,Epiphone Waxx Nighthawk Studio,electric_solid
+652,2306130666?,2306130666?,23,06,13,0666?,Epiphone Newport Bass California,electric_solid
+653,25091525875,25091525875,25,09,15,25875,Epiphone Inspired by Gibson Custom 1957 Les Paul Custom Reissue,electric_solid
+654,25091526327,25091526327,25,09,15,26327,Epiphone Inspired by Gibson Custom 1957 Les Paul Custom Reissue,electric_solid
+655,25091526332,25091526332,25,09,15,26332,Epiphone Inspired by Gibson Custom 1957 Les Paul Custom Reissue,electric_solid
+656,25091526855,25091526855,25,09,15,26855,Epiphone Inspired by Gibson Custom 1957 Les Paul Custom Reissue,electric_solid
+657,25091529496,25091529496,25,09,15,29496,Epiphone Inspired by Gibson Custom 1957 Les Paul Custom Reissue,electric_solid
+658,25091529509,25091529509,25,09,15,29509,Epiphone Inspired by Gibson Custom 1957 Les Paul Custom Reissue,electric_solid
+659,25091525083,25091525083,25,09,15,25083,Epiphone Inspired by Gibson Custom Les Paul Custom Quilt,electric_solid
+660,25091525687,25091525687,25,09,15,25687,Epiphone Inspired by Gibson Custom Les Paul Custom Quilt,electric_solid
+661,25091525689,25091525689,25,09,15,25689,Epiphone Inspired by Gibson Custom Les Paul Custom Quilt,electric_solid
+662,25091530237,25091530237,25,09,15,30237,Epiphone Inspired by Gibson Custom Les Paul Custom Quilt,electric_solid
+663,25081529206,25081529206,25,08,15,29206,Epiphone Inspired by Gibson Custom Les Paul Custom Quilt,electric_solid
+664,25081531162,25081531162,25,08,15,31162,Epiphone 1959 Les Paul Standard Reissue Electric Guitar,electric_solid
+665,25081531152,25081531152,25,08,15,31152,Epiphone 1959 Les Paul Standard Reissue Electric Guitar,electric_solid
+666,25081531725,25081531725,25,08,15,31725,Epiphone 1959 Les Paul Standard Reissue Electric Guitar,electric_solid
+667,25081531733,25081531733,25,08,15,31733,Epiphone 1959 Les Paul Standard Reissue Electric Guitar,electric_solid
+668,25081531748,25081531748,25,08,15,31748,Epiphone 1959 Les Paul Standard Reissue Electric Guitar,electric_solid
+669,25072351056,25072351056,25,07,23,51056,Epiphone Les Paul Tribute Plus,electric_solid
+670,25072351072,25072351072,25,07,23,51072,Epiphone Les Paul Tribute Plus,electric_solid
+671,25072351206,25072351206,25,07,23,51206,Epiphone Les Paul Tribute Plus,electric_solid
+672,25072304203,25072304203,25,07,23,04203,Epiphone J-200 Studio EC,acoustic
+673,25072304259,25072304259,25,07,23,04259,Epiphone J-200 Studio EC,acoustic
+674,25072304307,25072304307,25,07,23,04307,Epiphone J-200 Studio EC,acoustic
+675,25082304163,25082304163,25,08,23,04163,Epiphone J-200 Studio EC,acoustic
+676,25082304244,25082304244,25,08,23,04244,Epiphone J-200 Studio EC,acoustic
+677,25072303259,25072303259,25,07,23,03259,Epiphone Hummingbird Studio EC,acoustic
+678,25072303256,25072303256,25,07,23,03256,Epiphone Hummingbird Studio EC,acoustic
+679,25072303311,25072303311,25,07,23,03311,Epiphone Hummingbird Studio EC,acoustic
+680,25072303313,25072303313,25,07,23,03313,Epiphone Hummingbird Studio EC,acoustic
+681,25072303362,25072303362,25,07,23,03362,Epiphone Hummingbird Studio EC,acoustic
+682,15051510508,15051510508,15,05,15,10508,Epiphone Les Paul Standard Plus Top,electric_solid
+683,16031511311,16031511311,16,03,15,11311,Epiphone Blueshawk Deluxe,electric_hb
+684, 12111501670,12111501670,12,11,15,01670,"Epiphone E230TD Inspired by ""John Lennon""",electric_hb
+685,25091528761,25091528761,25,09,15,28761,Epiphone 1960 Les Paul Special Double Cut Reissue,electric_solid
+686,25091528254,25091528254,25,09,15,28254,Epiphone 1960 Les Paul Special Double Cut Reissue,electric_solid
+687,25091528764,25091528764,25,09,15,28764,Epiphone 1960 Les Paul Special Double Cut Reissue,electric_solid
+688,25091528706,25091528706,25,09,15,28706,Epiphone 1960 Les Paul Special Double Cut Reissue,electric_solid
+689,25091524961,25091524961,25,09,15,24961,Epiphone 1960 Les Paul Special Double Cut Reissue,electric_solid
+690,25091528726,25091528726,25,09,15,28726,Epiphone 1960 Les Paul Special Double Cut Reissue,electric_solid
+691,25091528757,25091528757,25,09,15,28757,Epiphone 1960 Les Paul Special Double Cut Reissue,electric_solid
+692,25091528715,25091528715,25,09,15,28715,Epiphone 1960 Les Paul Special Double Cut Reissue,electric_solid
+693,25091530037,25091530037,25,09,15,30037,Epiphone 1960 Les Paul Special Double Cut Reissue,electric_solid
+694,25091528710,25091528710,25,09,15,28710,Epiphone 1960 Les Paul Special Double Cut Reissue,electric_solid
+695,25091528767,25091528767,25,09,15,28767,Epiphone 1960 Les Paul Special Double Cut Reissue,electric_solid
+696,25071520853,25071520853,25,07,15,20853,Epiphone IGC 1960 Les Paul Special Double Cut Reissue,electric_solid
+697,25071520846,25071520846,25,07,15,20846,Epiphone IGC 1960 Les Paul Special Double Cut Reissue,electric_solid
+698, 25061524750,25061524750,25,06,15,24750,Epiphone Inspired by Gibson Custom 1957 Les Paul Goldtop Reissue, electric_solid
+699, 25061524747,25061524747,25,06,15,24747,Epiphone Inspired by Gibson Custom 1957 Les Paul Goldtop Reissue, electric_solid
+700,25041526916,25041526916,25,04,15,26916,Epiphone Inspired by Gibson Les Paul Standard 60s,electric_solid
+701,25041526917,25041526917,25,04,15,26917,Epiphone Inspired by Gibson Les Paul Standard 60s,electric_solid
+702,25041523579,25041523579,25,04,15,23579,Epiphone Inspired by Gibson Les Paul Standard 60s,electric_solid
+703,25081529969,25081529969,25,08,15,29969,Epiphone Inspired by Gibson SG Special P-90,electric_solid
+704,25081530972,25081530972,25,08,15,30972,Epiphone Inspired by Gibson SG Special P-90,electric_solid
+705,25081531551,25081531551,25,08,15,31551,Epiphone Inspired by Gibson SG Special P-90,electric_solid
+706,25091520326,25091520326,25,09,15,20326,Epiphone Inspired by Gibson SG Special P-90,electric_solid
+707,25091520800,25091520800,25,09,15,20800,Epiphone Inspired by Gibson SG Special P-90,electric_solid
+708,25081526939,25081526939,25,08,15,26939,Epiphone Inspired by Gibson Les Paul Special Double Cut Figured,electric_solid
+709,25081528617,25081528617,25,08,15,28617,Epiphone Inspired by Gibson Les Paul Special Double Cut Figured,electric_solid
+710,25081528620,25081528620,25,08,15,28620,Epiphone Inspired by Gibson Les Paul Special Double Cut Figured,electric_solid
+711,25081529189,25081529189,25,08,15,29189,Epiphone Inspired by Gibson Les Paul Special Double Cut Figured,electric_solid
+712,25081530207,25081530207,25,08,15,30207,Epiphone Inspired by Gibson Les Paul Special Double Cut Figured,electric_solid
+713,25081527903,25081527903,25,08,15,27903,Epiphone Inspired by Gibson Les Paul Special Double Cut,electric_solid
+714,25081528502,25081528502,25,08,15,28502,Epiphone Inspired by Gibson Les Paul Special Double Cut,electric_solid
+715,25081529654,25081529654,25,08,15,29654,Epiphone Inspired by Gibson Les Paul Special Double Cut,electric_solid
+716,25091520992,25091520992,25,09,15,20992,Epiphone Inspired by Gibson Les Paul Special Double Cut,electric_solid
+717,25091521465,25091521465,25,09,15,21465,Epiphone Inspired by Gibson Les Paul Special Double Cut,electric_solid
+718,25071524617,25071524617,25,07,15,24617,Epiphone Inspired by Gibson Les Paul Special Double Cut,electric_solid
+719,25081525707,25081525707,25,08,15,25707,Epiphone Inspired by Gibson Les Paul Special Double Cut,electric_solid
+720,25081530126,25081530126,25,08,15,30126,Epiphone Inspired by Gibson Les Paul Special Double Cut,electric_solid
+721,25081531280,25081531280,25,08,15,31280,Epiphone Inspired by Gibson Les Paul Special Double Cut,electric_solid
+722,25091521009,25091521009,25,09,15,21009,Epiphone Inspired by Gibson Les Paul Special Double Cut,electric_solid
+723,25081520796,25081520796,25,08,15,20796,Epiphone Inspired by Gibson Les Paul Standard '60s,electric_solid
+724,25081524583,25081524583,25,08,15,24583,Epiphone Inspired by Gibson Les Paul Standard '60s,electric_solid
+725,25081526826,25081526826,25,08,15,26826,Epiphone Inspired by Gibson Les Paul Standard '60s,electric_solid
+726,25081527386,25081527386,25,08,15,27386,Epiphone Inspired by Gibson Les Paul Standard '60s,electric_solid
+727,25081527885,25081527885,25,08,15,27885,Epiphone Inspired by Gibson Les Paul Standard '60s,electric_solid
+728,25081525078,25081525078,25,08,15,25078,Epiphone Inspired by Gibson Les Paul Standard '50s,electric_solid
+729,25081525079,25081525079,25,08,15,25079,Epiphone Inspired by Gibson Les Paul Standard '50s,electric_solid
+730,25081526747,25081526747,25,08,15,26747,Epiphone Inspired by Gibson Les Paul Standard '50s,electric_solid
+731,25081526754,25081526754,25,08,15,26754,Epiphone Inspired by Gibson Les Paul Standard '50s,electric_solid
+732,25081529609,25081529609,25,08,15,29609,Epiphone Inspired by Gibson Les Paul Standard '50s,electric_solid
+733,25081524567,25081524567,25,08,15,24567,Epiphone Inspired by Gibson Les Paul Standard '60s,electric_solid
+734,25081526238,25081526238,25,08,15,26238,Epiphone Inspired by Gibson Les Paul Standard '60s,electric_solid
+735,25081526813,25081526813,25,08,15,26813,Epiphone Inspired by Gibson Les Paul Standard '60s,electric_solid
+736,25081527843,25081527843,25,08,15,27843,Epiphone Inspired by Gibson Les Paul Standard '60s,electric_solid
+737,25081527868,25081527868,25,08,15,27868,Epiphone Inspired by Gibson Les Paul Standard '60s,electric_solid
+738,12112307739,12112307739,12,11,23,07739,Epiphone Les Paul Standard Plus Top pro,electric_solid
+739,20071529989,20071529989,20,07,15,29989,EPIPHONE E-360TD Riviera,electric_hb
+740,17051501780,17051501780,17,05,15,01780,EPIPHONE Limited Edition James Bay Signature 1966 Century E422T,electric_hb
