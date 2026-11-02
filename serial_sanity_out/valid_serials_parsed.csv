@@ -741,3 +741,37 @@ source_line,raw_serial,norm_serial,YY,MM,FF,seq,model,ConstructionBucket
 741,09021501687,09021501687,09,02,15,01687,Epiphone Les Paul,electric_solid
 742,21071527126,21071527126,21,07,15,27126,Epiphone SG Traditional Pro,electric_solid
 743,17021501006,17021501006,17,02,15,01006,Epiphone ES-359 Dot,electric_hb  
+744, 201015211xx,201015211XX,20,10,15,211XX,Epiphone 1959 Limited Edition Les Paul,electric_solid
+745, 2010153344x,2010153344X,20,10,15,3344X,Epiphone 1959 Limited Edition Les Paul,electric_solid
+746, 26051527211,26051527211,26,05,15,27211,Epiphone Prophecy Les Paul,electric_solid
+747, 26051521466,26051521466,26,05,15,21466,Epiphone Prophecy Les Paul,electric_solid
+748, 26051529630,26051529630,26,05,15,29630,Epiphone Prophecy Les Paul,electric_solid
+749, 26051529632,26051529632,26,05,15,29632,Epiphone Prophecy Les Paul,electric_solid
+750, 26051524293,26051524293,26,05,15,24293,Epiphone Prophecy Les Paul,electric_solid
+751, 26051529628,26051529628,26,05,15,29628,Epiphone Prophecy Les Paul,electric_solid
+752, 26061520532,26061520532,26,06,15,20532,Epiphone Prophecy Les Paul Baritone, electric_solid
+753, 26061520534,26061520534,26,06,15,20534,Epiphone Prophecy Les Paul Baritone, electric_solid
+754, 26061521055,26061521055,26,06,15,21055,Epiphone Prophecy Les Paul Baritone, electric_solid
+755, 26051526294,26051526294,26,05,15,26294,Epiphone Prophecy Les Paul, electric_solid
+756, 26051526775,26051526775,26,05,15,26775,Epiphone Prophecy Les Paul, electric_solid
+757, 26051527222,26051527222,26,05,15,27222,Epiphone Prophecy Les Paul, electric_solid
+758, 26051527226,26051527226,26,05,15,27226,Epiphone Prophecy Les Paul, electric_solid
+759, 26051527235,26051527235,26,05,15,27235,Epiphone Prophecy Les Paul, electric_solid
+760, 26071510117,26071510117,26,07,15,10117,Epiphone Casino,electric_hb
+761, 26071510246,26071510246,26,07,15,10246,Epiphone Casino,electric_hb
+762, 26071510470,26071510470,26,07,15,10470,Epiphone Casino,electric_hb
+763, 26071510474,26071510474,26,07,15,10474,Epiphone Casino,electric_hb
+764, 26071510606,26071510606,26,07,15,10606,Epiphone Casino,electric_hb
+765, 26051528216,26051528216,26,05,15,28216,Epiphone Prophecy Flying V, electric_solid
+766, 26051529605,26051529605,26,05,15,29605,Epiphone Prophecy Flying V, electric_solid
+767, 26061521492,26061521492,26,06,15,21492,Epiphone Prophecy Flying V, electric_solid
+768, 26061523953,26061523953,26,06,15,23953,Epiphone Prophecy Flying V, electric_solid
+769, 26061523956,26061523956,26,06,15,23956,Epiphone Prophecy Flying V, electric_solid
+770, 26051520963,26051520963,26,05,15,20963,Epiphone Prophecy Victory FR,electric_solid
+771, 26051521006,26051521006,26,05,15,21006,Epiphone Prophecy Victory FR,electric_solid
+772, 26051521020,26051521020,26,05,15,21020,Epiphone Prophecy Victory FR,electric_solid
+773, 26051521501,26051521501,26,05,15,21501,Epiphone Prophecy Victory FR,electric_solid
+774, 26051521510,26051521510,26,05,15,21510,Epiphone Prophecy Victory FR,electric_solid
+775, 25122300400,25122300400,25,12,23,00400,Epiphone Hummingbird Studio EC, acoustic
+776, 26051520987,26051520987,26,05,15,20987,Epiphone Prophecy Victory FR, electric_solid
+777, 26051521502,26051521502,26,05,15,21502,Epiphone Prophecy Victory FR, electric_solid
