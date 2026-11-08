@@ -575,7 +575,7 @@ Kramer D-1 Bass, Satin Black, Gibson UK/EU Demoshop, 21042900244,electric_solid
 Epiphone YUNGBLUD SG Junior, Classic White,Gibson UK/EU Demoshop,24021528373,electric_solid
 Epiphone Casino, Worn Ebony,Gibson UK/EU Demoshop,22091511161,electric_hb
 Epiphone Hummingbird, Aged Antique Natural Gloss, Gibson UK/EU Demoshop,22121500148,acoustic
-Epiphone Emperor Swingster, Black Aged Gloss,Gibson UK/EU Demoshop,21012356148
+Epiphone Emperor Swingster, Black Aged Gloss,Gibson UK/EU Demoshop,21012356148, electric_hb
 Epiphone ES-339, Natural,Gibson UK/EU Demoshop,20081528539,electric_hb
 Epiphone Rex Brown Thunderbird Bass, Ebony,Gibson UK/EU Demoshop,23081520833,electric_solid
 Epiphone Jerry Cantrell Les Paul Custom Prophecy, Bone White,Gibson UK/EU Demoshop, 21111530137, electric_solid
@@ -680,7 +680,7 @@ Epiphone Hummingbird Studio EC,Antique Natural,Sweetwater,25072303313,acoustic
 Epiphone Hummingbird Studio EC,Antique Natural,Sweetwater,25072303362,acoustic
 Epiphone Les Paul Standard Plus Top,unknown,Reverb,15051510508,electric_solid
 Epiphone Blueshawk Deluxe,Wine Red,Ikebe Music,16031511311,electric_hb
-Epiphone E230TD Inspired by "John Lennon",unknown, Reverb, 12111501670,electric_hb
+"Epiphone E230TD Inspired by ""John Lennon""",unknown, Reverb, 12111501670,electric_hb
 Epiphone 1960 Les Paul Special Double Cut Reissue,TV Yellow,Andertons,25091528761,electric_solid
 Epiphone 1960 Les Paul Special Double Cut Reissue,TV Yellow,Andertons,25091528254,electric_solid
 Epiphone 1960 Les Paul Special Double Cut Reissue,TV Yellow,Andertons,25091528764,electric_solid
@@ -740,63 +740,173 @@ EPIPHONE Limited Edition James Bay Signature 1966 Century E422T,Cherry Red,Ishib
 Epiphone Les Paul, Ebony, Reddit,09021501687,electric_solid
 Epiphone SG Traditional Pro,Cobalt Fade,Reddit,21071527126,electric_solid
 Epiphone ES-359 Dot,Cherry,Reverb,17021501006,electric_hb  
-Epiphone 1959 Limited Edition Les Paul, Aged Dark Cherry burst, reddit, 201015211xx,electric_solid,
-Epiphone 1959 Limited Edition Les Paul, Aged Dark Cherry burst, Facebook Marketplace, 2010153344x,electric_solid,
-Epiphone Prophecy Les Paul, Forest Phantom Satin, Sweetwater, 26051527211,electric_solid,
-Epiphone Prophecy Les Paul,Crimson Fog Satin,Sweetwater, 26051521466,electric_solid,
-Epiphone Prophecy Les Paul,Crimson Fog Satin,Sweetwater, 26051529630,electric_solid,
-Epiphone Prophecy Les Paul,Crimson Fog Satin,Sweetwater, 26051529632,electric_solid,
-Epiphone Prophecy Les Paul,Crimson Fog Satin,Sweetwater, 26051524293,electric_solid,
-Epiphone Prophecy Les Paul,Crimson Fog Satin,Sweetwater, 26051529628,electric_solid,
-Epiphone Prophecy Les Paul Baritone, Obsidian Storm Satin,Sweetwater, 26061520532, electric_solid,
-Epiphone Prophecy Les Paul Baritone, Obsidian Storm Satin,Sweetwater, 26061520534, electric_solid,
-Epiphone Prophecy Les Paul Baritone, Obsidian Storm Satin,Sweetwater, 26061521055, electric_solid,
-Epiphone Prophecy Les Paul, Obsidian Storm Satin, Sweetwater, 26051526294, electric_solid,
-Epiphone Prophecy Les Paul, Obsidian Storm Satin, Sweetwater, 26051526775, electric_solid,
-Epiphone Prophecy Les Paul, Obsidian Storm Satin, Sweetwater, 26051527222, electric_solid,
-Epiphone Prophecy Les Paul, Obsidian Storm Satin, Sweetwater, 26051527226, electric_solid,
-Epiphone Prophecy Les Paul, Obsidian Storm Satin, Sweetwater, 26051527235, electric_solid,
-Epiphone Casino, Vintage Sunburst,Sweetwater, 26071510117,electric_hb,
-Epiphone Casino, Vintage Sunburst,Sweetwater, 26071510246,electric_hb,
-Epiphone Casino, Vintage Sunburst,Sweetwater, 26071510470,electric_hb,
-Epiphone Casino, Vintage Sunburst,Sweetwater, 26071510474,electric_hb,
-Epiphone Casino, Vintage Sunburst,Sweetwater, 26071510606,electric_hb,
-Epiphone Prophecy Flying V,Obsidian Storm Satin,Sweetwater, 26051528216, electric_solid,
-Epiphone Prophecy Flying V,Obsidian Storm Satin,Sweetwater, 26051529605, electric_solid,
-Epiphone Prophecy Flying V,Obsidian Storm Satin,Sweetwater, 26061521492, electric_solid,
-Epiphone Prophecy Flying V,Obsidian Storm Satin,Sweetwater, 26061523953, electric_solid,
-Epiphone Prophecy Flying V,Obsidian Storm Satin,Sweetwater, 26061523956, electric_solid,
-Epiphone Prophecy Victory FR, Aqua Smoke Satin,Sweetwater, 26051520963,electric_solid,
-Epiphone Prophecy Victory FR, Aqua Smoke Satin,Sweetwater, 26051521006,electric_solid,
-Epiphone Prophecy Victory FR, Aqua Smoke Satin,Sweetwater, 26051521020,electric_solid,
-Epiphone Prophecy Victory FR, Aqua Smoke Satin,Sweetwater, 26051521501,electric_solid,
-Epiphone Prophecy Victory FR, Aqua Smoke Satin,Sweetwater, 26051521510,electric_solid,
-Epiphone Hummingbird Studio EC, Heritage Cherry Sunburst, Peach Guitars, 25122300400, acoustic,
-Epiphone Prophecy Victory FR,Aqua Smoke Satin,Peach Guitars, 26051520987, electric_solid,
-Epiphone Prophecy Victory FR,Aqua Smoke Satin,Peach Guitars, 26051521502, electric_solid,
+Epiphone 1959 Limited Edition Les Paul, Aged Dark Cherry burst, reddit, 201015211xx,electric_solid
+Epiphone 1959 Limited Edition Les Paul, Aged Dark Cherry burst, Facebook Marketplace, 2010153344x,electric_solid
+Epiphone Prophecy Les Paul, Forest Phantom Satin, Sweetwater, 26051527211,electric_solid
+Epiphone Prophecy Les Paul,Crimson Fog Satin,Sweetwater, 26051521466,electric_solid
+Epiphone Prophecy Les Paul,Crimson Fog Satin,Sweetwater, 26051529630,electric_solid
+Epiphone Prophecy Les Paul,Crimson Fog Satin,Sweetwater, 26051529632,electric_solid
+Epiphone Prophecy Les Paul,Crimson Fog Satin,Sweetwater, 26051524293,electric_solid
+Epiphone Prophecy Les Paul,Crimson Fog Satin,Sweetwater, 26051529628,electric_solid
+Epiphone Prophecy Les Paul Baritone, Obsidian Storm Satin,Sweetwater, 26061520532, electric_solid
+Epiphone Prophecy Les Paul Baritone, Obsidian Storm Satin,Sweetwater, 26061520534, electric_solid
+Epiphone Prophecy Les Paul Baritone, Obsidian Storm Satin,Sweetwater, 26061521055, electric_solid
+Epiphone Prophecy Les Paul, Obsidian Storm Satin, Sweetwater, 26051526294, electric_solid
+Epiphone Prophecy Les Paul, Obsidian Storm Satin, Sweetwater, 26051526775, electric_solid
+Epiphone Prophecy Les Paul, Obsidian Storm Satin, Sweetwater, 26051527222, electric_solid
+Epiphone Prophecy Les Paul, Obsidian Storm Satin, Sweetwater, 26051527226, electric_solid
+Epiphone Prophecy Les Paul, Obsidian Storm Satin, Sweetwater, 26051527235, electric_solid
+Epiphone Casino, Vintage Sunburst,Sweetwater, 26071510117,electric_hb
+Epiphone Casino, Vintage Sunburst,Sweetwater, 26071510246,electric_hb
+Epiphone Casino, Vintage Sunburst,Sweetwater, 26071510470,electric_hb
+Epiphone Casino, Vintage Sunburst,Sweetwater, 26071510474,electric_hb
+Epiphone Casino, Vintage Sunburst,Sweetwater, 26071510606,electric_hb
+Epiphone Prophecy Flying V,Obsidian Storm Satin,Sweetwater, 26051528216, electric_solid
+Epiphone Prophecy Flying V,Obsidian Storm Satin,Sweetwater, 26051529605, electric_solid
+Epiphone Prophecy Flying V,Obsidian Storm Satin,Sweetwater, 26061521492, electric_solid
+Epiphone Prophecy Flying V,Obsidian Storm Satin,Sweetwater, 26061523953, electric_solid
+Epiphone Prophecy Flying V,Obsidian Storm Satin,Sweetwater, 26061523956, electric_solid
+Epiphone Prophecy Victory FR, Aqua Smoke Satin,Sweetwater, 26051520963,electric_solid
+Epiphone Prophecy Victory FR, Aqua Smoke Satin,Sweetwater, 26051521006,electric_solid
+Epiphone Prophecy Victory FR, Aqua Smoke Satin,Sweetwater, 26051521020,electric_solid
+Epiphone Prophecy Victory FR, Aqua Smoke Satin,Sweetwater, 26051521501,electric_solid
+Epiphone Prophecy Victory FR, Aqua Smoke Satin,Sweetwater, 26051521510,electric_solid
+Epiphone Hummingbird Studio EC, Heritage Cherry Sunburst, Peach Guitars, 25122300400, acoustic
+Epiphone Prophecy Victory FR,Aqua Smoke Satin,Peach Guitars, 26051520987, electric_solid
+Epiphone Prophecy Victory FR,Aqua Smoke Satin,Peach Guitars, 26051521502, electric_solid
 Epiphone Inspired by Gibson Custom 1963 Dove Reissue,Natural,Ishibashi Music,26041500053, acoustic
 Epiphone Inspired by Gibson Custom Tamio Okuda J-45,Washed Vintage Sunburst,Ishibashi Music,26031501744, acoustic
 Epiphone Riviera,Sparkling Burgundy,Ishibashi Music,26031511093, electric_hb
 Epiphone Inspired by Gibson Les Paul Standard 50s,Goldtop,Digimart,26081528836, electric_solid
-Epiphone Inspired by John Lennon Casino, Vintage Sunburst,Ishibashi Music,09081501382,electric_hb,
-Epiphone Inspired by John Lennon Casino E230TD,unknown,Ishibashi Music,09121502247, electric_hb,
-Epiphone Riviera Custom P93, Wine Red,Ishibashi Music, 10081502214, electric_hb,
-Epiphone Joe Bonamassa Les Paul, Gold Top, Ishibashi Music, 10101513421, electric_hb,
-Epiphone Casino, Cherry, Ishibashi Music, 10111501766, electric_hb,
-Epiphone Joe Pass Emperor II, Natural, Ishibashi Music, 1112210173, electric_hb,
-EPIPHONE 50th Anniversary 1962 Crestwood Custom Reissue, Cherry, Ishibashi Music, 12112304102, electric_solid,
-Epiphone LTD Tak Matsumoto DC Standard,green, Ishibashi Music, 13091512020, electric_solid,
-Epiphone Sheraton II, Vintage Sunburst,Ishibashi Music, 13101501895,electric_hb,
-Epiphone Thunderbird '64, Silver,Gibson’s Music Store (no correlation) ,2310152340x, electric_solid,
-Epiphone Thunderbird Pro, Natura1, MotoMusic, 0909231389,electric_solid,
-Epiphone Thunderbird Pro,Vintage Sunburst,Old Soul Vintage Instruments, 13032303136, electric_solid,
-Epiphone Thunderbird '64, Inverness Green,The Guitar Store, 25071522295,electric_solid, 
-Epiphone Thunderbird '64,Silver Mist,Alto Music ,26011521675, electric_solid, 
-Epiphone Thunderbird '64,Silver Mist,Alto Music ,23021522068, electric_solid, 
-Epiphone Thunderbird '64,Ember Red,Alto Music ,25011527505, electric_solid, 
-Epiphone Thunderbird IV, Vintage Sunburst,Reverb,18041515341,electric_solid,
-
-
-
-
-
+Epiphone Inspired by John Lennon Casino, Vintage Sunburst,Ishibashi Music,09081501382,electric_hb
+Epiphone Inspired by John Lennon Casino E230TD,unknown,Ishibashi Music,09121502247, electric_hb
+Epiphone Riviera Custom P93, Wine Red,Ishibashi Music, 10081502214, electric_hb
+Epiphone Joe Bonamassa Les Paul, Gold Top, Ishibashi Music, 10101513421, electric_hb
+Epiphone Casino, Cherry, Ishibashi Music, 10111501766, electric_hb
+Epiphone Joe Pass Emperor II, Natural, Ishibashi Music, 1112210173, electric_hb
+EPIPHONE 50th Anniversary 1962 Crestwood Custom Reissue, Cherry, Ishibashi Music, 12112304102, electric_solid
+Epiphone LTD Tak Matsumoto DC Standard,green, Ishibashi Music, 13091512020, electric_solid
+Epiphone Sheraton II, Vintage Sunburst,Ishibashi Music, 13101501895,electric_hb
+Epiphone Thunderbird '64, Silver,Gibson’s Music Store (no correlation) ,2310152340x, electric_solid
+Epiphone Thunderbird Pro, Natura1, MotoMusic, 0909231389,electric_solid
+Epiphone Thunderbird Pro,Vintage Sunburst,Old Soul Vintage Instruments, 13032303136, electric_solid
+Epiphone Thunderbird '64, Inverness Green,The Guitar Store, 25071522295,electric_solid
+Epiphone Thunderbird '64,Silver Mist,Alto Music ,26011521675, electric_solid
+Epiphone Thunderbird '64,Silver Mist,Alto Music ,23021522068, electric_solid
+Epiphone Thunderbird '64,Ember Red,Alto Music ,25011527505, electric_solid
+Epiphone Thunderbird IV, Vintage Sunburst,Reverb,18041515341,electric_solid
+Epiphone EB-0 Bass, Cherry Red, Reverb, 22022351242,electric_solid
+Epiphone EB-0 Bass, Cherry Red, Reverb, 1104180691, electric_solid
+Epiphone SG Bass, Cherry Red, Chuck Levin's Washington Music Center, 26041521580, electric_solid
+Epiphone Thunderbird '64,Silver Mist,Willcutt Guitars,23111523876,electric_solid
+Epiphone Thunderbird '64,Ember Red,Willcutt Guitars,23101523389,electric_solid
+Epiphone Rex Brown Thunderbird, Ebony, Huber Breese, 24021527501, electric_solid
+Epiphone IGC 1960 Les Paul Special Double Cut Reissue,Cherry Red,Huber Breese,26071526705,electric_solid
+Epiphone IGC 1960 Les Paul Special Double Cut Reissue,TV White,Huber Breese,26071527240,electric_solid
+Epiphone Bonehead Riviera,Dark Tobacco Burst,Huber Breese,26061512488,electric_solid
+Epiphone Billie Joe Armstrong Les Paul Junior ,Radiant Red,Huber Breese,26011525099,electric_solid
+Epiphone Billie Joe Armstrong Les Paul Junior ,Radiant Red,Huber Breese,26011525101,electric_solid
+Epiphone Billie Joe Armstrong Les Paul Junior ,Radiant Red,Huber Breese,26011525130,electric_solid
+Epiphone Mike Dirnt Grabber G-3 Signature Electric Bass Guitar,Silverburst,Huber Breese,26041521891,electric_solid
+Epiphone Futura ES-355 Electric Guitar,Firestorm Shift,Huber Breese,25111511322,electric_hb
+Epiphone Les Paul Standard 60's Figured,Iced Tea Burst,Huber Breese,26041521278,electric_solid
+Epiphone Futura SG Custom Electric Guitar,Nitro Shift,Huber Breese,25121528503,electric_solid
+Epiphone SG Standard,Ebony,Huber Breese,25121522633,electric_solid
+Epiphone Firebird Electric Guitar,Wine Red,Sweetwater,25081531070,electric_solid
+Epiphone Firebird Electric Guitar,Wine Red,Sweetwater,25081531664,electric_solid
+Epiphone Firebird Electric Guitar,Wine Red,Sweetwater,25091520409,electric_solid
+Epiphone Firebird Electric Guitar,Wine Red,Sweetwater,25091520417,electric_solid
+Epiphone Firebird Left-handed Electric Guitar,Wine Red,Sweetwater,26061520880,electric_solid
+Epiphone Inspired by Gibson Custom 1963 Firebird V Left-handed Electric Guitar,Polaris White,Sweetwater,26031523166,electric_solid
+Epiphone Inspired by Gibson Custom 1963 Firebird V Left-handed Electric Guitar,Polaris White,Sweetwater,26061529551,electric_solid
+Epiphone Inspired by Gibson Custom 1963 Firebird V Left-handed Electric Guitar,Polaris White,Sweetwater,26061523835,electric_solid
+Epiphone Inspired by Gibson Custom 1963 Firebird I Electric Guitar,Cardinal Red,Sweetwater,24121530410,electric_solid
+Epiphone Inspired by Gibson Custom 1963 Firebird I Electric Guitar,Cardinal Red,Sweetwater,24121530991,electric_solid
+Epiphone Inspired by Gibson Custom 1963 Firebird I Electric Guitar,Cardinal Red,Sweetwater,24121531003,electric_solid
+Epiphone Inspired by Gibson Custom 1963 Firebird I Electric Guitar,Cardinal Red,Sweetwater,24121531558,electric_solid
+Epiphone Inspired by Gibson Custom 1963 Firebird I Electric Guitar,Cardinal Red,Sweetwater,24121531583,electric_solid
+Epiphone Inspired by Gibson Custom 1963 Firebird I Reissue Electric Guitar,Cherry,Sweetwater,25121528747,electric_solid
+Epiphone Inspired by Gibson Custom 1963 Firebird I Reissue Electric Guitar,Cherry,Sweetwater,25121528761,electric_solid
+Epiphone Inspired by Gibson Custom 1963 Firebird I Reissue Electric Guitar,Cherry,Sweetwater,25121529064,electric_solid
+Epiphone Inspired by Gibson Custom 1963 Firebird I Reissue Electric Guitar,Cherry,Sweetwater,25121529100,electric_solid
+Epiphone Inspired by Gibson Custom 1963 Firebird I Reissue Electric Guitar,Cherry,Sweetwater,26011521575,electric_solid
+Epiphone Inspired by Gibson Custom 1963 Firebird V Electric Guitar,Polaris White,Sweetwater,25011525784,electric_solid
+Epiphone Prophecy SG Electric Guitar,Obsidian Storm Satin,Sweetwater,26051524814,electric_solid
+Epiphone Inspired by Gibson Custom 1964 SG Standard Reissue Electric Guitar,Cherry Red,Sweetwater,25091530330,electric_solid
+Epiphone Inspired by Gibson Custom 1964 SG Standard Reissue Electric Guitar,Cherry Red,Sweetwater,25111520667,electric_solid
+Epiphone Inspired by Gibson Custom 1964 SG Standard Reissue Electric Guitar,Cherry Red,Sweetwater,25111521189,electric_solid
+Epiphone Inspired by Gibson Custom 1964 SG Standard Reissue Electric Guitar,Cherry Red,Sweetwater,25111521193,electric_solid
+Epiphone Inspired by Gibson Custom 1964 SG Standard Reissue Electric Guitar,Cherry Red,Sweetwater,25111525991,electric_solid
+Epiphone Inspired by Gibson Custom 1957 SJ-200 Reissue,Antique Natural,Sweetwater,26061500953,acoustic
+Epiphone Inspired by Gibson Custom 1957 SJ-200 Reissue,Vintage Sunburst,Sweetwater,25121500105,acoustic
+Epiphone Inspired by Gibson Custom 1957 SJ-200 Reissue,Vintage Sunburst,Sweetwater,25121500898,acoustic
+Epiphone Inspired by Gibson Custom 1957 SJ-200 Reissue,Vintage Sunburst,Sweetwater,25121501040,acoustic
+Epiphone Inspired by Gibson Custom 1957 SJ-200 Reissue,Vintage Sunburst,Sweetwater,26011500404,acoustic
+Epiphone Inspired by Gibson Custom 1960 Hummingbird Reissue Left-handed,Cherry Sunburst,Sweetwater,26031500563,acoustic
+Epiphone Inspired by Gibson Custom 1960 Hummingbird Reissue Left-handed,Cherry Sunburst,Sweetwater,26031500616,acoustic
+Epiphone Marcus King El Dorado,Antique Natural,Sweetwater,26031500287,acoustic
+Epiphone Marcus King El Dorado,Antique Natural,Sweetwater,26031500381,acoustic
+Epiphone Marcus King El Dorado,Antique Natural,Sweetwater,26031500403,acoustic
+Epiphone Marcus King El Dorado,Antique Natural,Sweetwater,26031500075,acoustic
+Epiphone J-200 Studio EC,Antique Natural,Sweetwater,25072304373,acoustic
+Epiphone Inspired by Gibson L-00 Standard,Vintage Sunburst,Sweetwater,25071500089,acoustic
+Epiphone Inspired by Gibson L-00 Standard,Vintage Sunburst,Sweetwater,25071500309,acoustic
+Epiphone Inspired by Gibson L-00 Standard,Vintage Sunburst,Sweetwater,25071500365,acoustic
+Epiphone Inspired by Gibson L-00 Standard,Vintage Sunburst,Sweetwater,25071500196,acoustic
+Epiphone Les Paul Electric Guitar,Sea Foam Green,Reverb,18071506897,electric_solid
+Epiphone 1958 Korina Explorer,Black,Ishibashi,0807211591,electric_solid
+Epiphone Les Paul Custom Prophecy EX,,Ishibashi,0812120084,electric_solid
+Epiphone Limited Edition 1959 ES-335 Dot,Cherry,Ishibashi,09051501657,electric_hb
+Epiphone SG Gothic,Pitch Black Satin,Ishibashi,0906123324,electric_solid
+Epiphone Les Paul Custom,Alpine White,Ishibashi,09111512321,electric_solid
+Epiphone LTD Tak Matsumoto DC Custom,Ebony,Ishibashi,09121508139,electric_solid
+Epiphone Limited Edition Les Paul Classic Plain Top,,Ishibashi,10031514399,electric_solid
+Epiphone 1958 Korina Explorer,Natural,Ishibashi,1006200508,electric_solid
+Epiphone FT-79 Inspired by 1964 Texan,Vintage Cherry Sunburst,Ishibashi,1010171843,acoustic
+Epiphone ES-175,Vintage Sunburst,Ishibashi,10122318457,electric_hb
+Epiphone 1958 Korina Flying V,Alpine White,Ishibashi,1103201525,electric_solid
+Epiphone Casino,Vintage Sunburst,Ishibashi,11061502851,electric_hb
+Epiphone Tony Iommi G-400,Ebony,Ishibashi,1108202841,electric_solid
+Epiphone EB-0 Bass,,Ishibashi,11082300007,electric_solid
+Epiphone Casino,Vintage Sunburst,Ishibashi,11111500577,electric_hb
+Epiphone DOT Ultra-339,Pelham Blue,Reverb,12061501514,electric_hb
+Epiphone FT-79 Texan,Natural,Ishibashi,13012318667,acoustic
+Epiphone Les Paul Standard,Ebony,Ishibashi,13031508464,electric_solid
+Epiphone Les Paul Custom Pro,,Ishibashi,13031511689,electric_solid
+Epiphone LTD Tak Matsumoto DC Standard Plus Top,Aqua Blue,Ishibashi,13101506498,electric_solid
+Epiphone Les Paul Custom Classic,Black,Reverb,14051508142,electric_solid
+Epiphone SG Pro,,Reverb,1405200012,electric_solid
+Epiphone EB-3 Bass,Cherry,Reverb,1411202923,electric_solid
+Epiphone SG Special,Cherry,Reverb,15012305460,electric_solid
+Epiphone EL-00 PRO,Vintage Sunburst,Ishibashi,15012312218,acoustic
+Epiphone Casino Coupe,Vintage Sunburst,Reverb,15071501094,electric_hb
+Epiphone EJ-200SCE,Ebony,Ishibashi,16012316086,acoustic
+Epiphone DOT ES-339,Ebony,Reverb,16041500035,electric_hb
+Epiphone Inspired by 1964 Texan,Antique Natural,Ishibashi,16042317271,acoustic
+Epiphone Les Paul Studio,Worn Cherry,Ishibashi,16051506533,electric_solid
+Epiphone E422T Inspired by 1966 Century,Cherry,Reverb,16071500270,electric_hb
+Epiphone Limited Edition Wildkat Royale Bigsby,Pearl White,Ishibashi,1612204891,electric_hb
+Epiphone LTD EL-00 Pro,Mahogany,Ishibashi,16122307061,acoustic
+Epiphone E422T Inspired by 1966 Century,Vintage Sunburst,Reverb,17021502208,electric_hb
+Epiphone Hummingbird,Ebony,Reverb,18032304256,acoustic
+Epiphone Les Paul Ultra-III,,Reverb,18121508551,electric_solid
+Epiphone Casino Coupe,TQ,Reverb,19011501163,electric_hb
+Epiphone E422T Inspired by 1966 Century,,Reverb,19021524944,electric_hb
+Epiphone Les Paul Custom Lite,Ebony,Reverb,19041523452,electric_solid
+Epiphone Limited Edition 78 Les Paul Classic Chrome Pro,Ebony,Reverb,19051525679,electric_solid
+Epiphone Riviera Custom P93,Wine Red,Reverb,19051529789,electric_hb
+Epiphone G-400 Deluxe Pro SG,Honeyburst,Reverb,19081526629,electric_solid
+Epiphone Les Paul Studio,Wine Red,Reverb,19111520705,electric_solid
+Epiphone Les Paul Special,Faded TV Yellow,Reverb,19121313366,electric_solid
+Epiphone 1959 Outfit Les Paul Standard,Aged Dark Cherry Burst,Reverb,20061523527,electric_solid
+Epiphone Les Paul Prophecy,Yellow Tiger Aged Gloss,Reverb,20071523595,electric_solid
+Epiphone ES-339,,Reverb,20071530444,electric_hb
+Epiphone Limited Edition 1959 Les Paul Standard Outfit,Aged Dark Cherry Burst,Ishibashi,20091522257,electric_solid
+Epiphone Embassy Pro Bass,Smoked Almond Metallic,Reverb,20091523300,electric_solid
+Epiphone Casino,Natural,Ishibashi,20091525641,electric_hb
+Epiphone Casino Coupe,Vintage Sunburst,Reverb,20101525938,electric_hb
+Epiphone Inspired by Gibson SG Standard 60s,Vintage Cherry,Reverb,21101529398,electric_solid
+Epiphone SG Special,Sparkling Burgundy,Reverb,21111532390,electric_solid
+Epiphone Wildkat,Antique Natural,Reverb,22061510473,electric_hb
+Epiphone Riviera,,Reverb,22081512267,electric_hb
+Epiphone J-200,Natural,Reverb,22092311735,acoustic

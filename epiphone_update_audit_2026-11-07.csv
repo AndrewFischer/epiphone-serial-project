@@ -1,0 +1,3 @@
+Source line,Issue,Action in cleaned derivative,Details
+857,Embedded header,excluded,Second header within appended records
+893,Duplicate serial and model,excluded,18071506897
