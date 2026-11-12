@@ -3,25 +3,22 @@ Serial column: Serial
 Model column: Model
 Dedupe: OFF
 
-Rows processed (post-dedupe if ON): 913
-Valid serials: 912
-Invalid serials: 1
+Rows processed (post-dedupe if ON): 924
+Valid serials: 924
+Invalid serials: 0
 
 Invalid reasons (count):
-  - invalid_chars: 1
 
 Examples by invalid reason (raw -> norm):
-  [invalid_chars]
-    'Serial' -> 'SERIAL'
 
 n by FF (VALID serials only):
-  - 15: 746
-  - 23: 130
+  - 15: 755
+  - 23: 131
   - 13: 12
   - 29: 10
   - 20: 6
+  - 18: 3
   - 12: 2
   - 21: 2
   - 24: 2
   - 17: 1
-  - 18: 1
